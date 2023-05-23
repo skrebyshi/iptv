@@ -1,179 +1,47 @@
 #EXTM3U
 #EXTINF:50,ааЕбаВбаЙ аКаАаНаАаЛ HD
 http://cdn.vsemtv.top/101/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:48,ааЕбаВбаЙ аКаАаНаАаЛ SD
-http://cdn.vsemtv.top/0101/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Россия 1 HD 
+#EXTINF:40,а аОббаИб 1 HD
 http://cdn.vsemtv.top/102/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Россия 1 
-http://cdn.vsemtv.top/0102/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, НТВ HD 
+#EXTINF:50, НТВ HD 
 http://cdn.vsemtv.top/103/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, НТВ 
-http://cdn.vsemtv.top/0103/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТНТ HD 
+#EXTINF:50, ТНТ HD 
 http://cdn.vsemtv.top/104/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТНТ 
-http://cdn.vsemtv.top/0104/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, 5 канал Россия 
+#EXTINF:50,5 аКаАаНаАаЛ
 http://cdn.vsemtv.top/105/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, РЕН ТВ HD 
+#EXTINF:50,а аа аЂа HD
 http://cdn.vsemtv.top/106/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, РЕН ТВ 
-http://cdn.vsemtv.top/0106/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, СТС HD 
+#EXTINF:50,аЁаЂаЁ HD
 http://cdn.vsemtv.top/107/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, СТС 
+#EXTINF:60, СТС 
 http://cdn.vsemtv.top/0107/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Звезда 
-http://cdn.vsemtv.top/108/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Звезда HD 
+#EXTINF:60, Звезда HD 
 http://cdn.vsemtv.top/0108/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТВЦ 
+#EXTINF:54, ТВЦ 
 http://cdn.vsemtv.top/109/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Домашний 
+#EXTINF:61, Домашний 
 http://cdn.vsemtv.top/110/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Че 
+#EXTINF:40, Че 
 http://cdn.vsemtv.top/111/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Пятница HD 
+#EXTINF:46,аббаНаИбаА HD
 http://cdn.vsemtv.top/112/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Пятница 
-http://cdn.vsemtv.top/0112/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Пятница (+2) 
-http://cdn.vsemtv.top/196/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Пятница (+4) 
-http://cdn.vsemtv.top/169/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Россия 24 
+#EXTINF:61,а аОббаИб24
 http://cdn.vsemtv.top/113/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, EuroNews 
+#EXTINF:60,ааВбаОаНаОаВаОббаИ
 http://cdn.vsemtv.top/140/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Москва 24 
+#EXTINF:60, Москва 24 
 http://cdn.vsemtv.top/114/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Мир 24 
-http://cdn.vsemtv.top/132/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Дождь 
+#EXTINF:100, Дождь 
 http://cdn.vsemtv.top/130/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:61,абаЛббббаА
-http://cdn.vsemtv.top/117/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, РБК 
-http://cdn.vsemtv.top/118/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Известия HD 
+#EXTINF:50, Известия HD 
 http://cdn.vsemtv.top/134/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТВ3 
-http://cdn.vsemtv.top/119/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТНТ4 
-http://cdn.vsemtv.top/121/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Мир HD 
+#EXTINF:55, Мир HD 
 http://cdn.vsemtv.top/122/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ОТР 
+#EXTINF:50,ааЂа 
 http://cdn.vsemtv.top/123/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Ю 
-http://cdn.vsemtv.top/124/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, СТС Love 
-http://cdn.vsemtv.top/125/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Суббота 
-http://cdn.vsemtv.top/126/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, КВН ТВ 
-http://cdn.vsemtv.top/120/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Анекдот ТВ 
-http://cdn.vsemtv.top/127/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Спас 
-http://cdn.vsemtv.top/128/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Союз 
-http://cdn.vsemtv.top/129/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, РТР-Планета 
-http://cdn.vsemtv.top/131/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Первый канал (-1) 
-http://cdn.vsemtv.top/137/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Первый канал (+2) 
-http://cdn.vsemtv.top/180/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Первый канал (+4) 
-http://cdn.vsemtv.top/181/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Первый канал (+6) 
-http://cdn.vsemtv.top/192/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Первый канал (+9) 
-http://cdn.vsemtv.top/159/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Первый канал Евразия 
-http://cdn.vsemtv.top/2110/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Россия 1 (-1) 
-http://cdn.vsemtv.top/138/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Россия 1 (+2) 
-http://cdn.vsemtv.top/182/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Россия 1 (+4) 
-http://cdn.vsemtv.top/183/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Россия 1 (+6) 
-http://cdn.vsemtv.top/194/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Россия 1 (+9) 
-http://cdn.vsemtv.top/160/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, РТР планета 
-http://cdn.vsemtv.top/131/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, НТВ (-1) 
-http://cdn.vsemtv.top/139/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, НТВ (+2) 
-http://cdn.vsemtv.top/184/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, НТВ (+4) 
-http://cdn.vsemtv.top/185/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, НТВ (+6) 
-http://cdn.vsemtv.top/174/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, НТВ (+7) 
-http://cdn.vsemtv.top/161/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТНТ (+2) 
-http://cdn.vsemtv.top/186/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТНТ (+4) 
-http://cdn.vsemtv.top/177/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТНТ (+7) 
-http://cdn.vsemtv.top/197/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Пятый Канал (+2) 
-http://cdn.vsemtv.top/187/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Пятый Канал (+5) 
-http://cdn.vsemtv.top/171/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Пятый Канал (+7) 
-http://cdn.vsemtv.top/168/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, РЕН ТВ (+2) 
-http://cdn.vsemtv.top/188/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, РЕН ТВ (+5) 
-http://cdn.vsemtv.top/193/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, СТС (+2) 
-http://cdn.vsemtv.top/189/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, СТС (+4) 
-http://cdn.vsemtv.top/164/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, СТС (+6) 
-http://cdn.vsemtv.top/190/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Звезда (+2) 
-http://cdn.vsemtv.top/191/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Звезда (+4) 
-http://cdn.vsemtv.top/167/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Звезда (+6) 
-http://cdn.vsemtv.top/198/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТВ Центр (+5) 
-http://cdn.vsemtv.top/176/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Домашний (+2) 
-http://cdn.vsemtv.top/179/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Домашний (+6) 
-http://cdn.vsemtv.top/173/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Че +2 
-http://cdn.vsemtv.top/172/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Че (+4) 
-http://cdn.vsemtv.top/195/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТВ3 (+3) 
-http://cdn.vsemtv.top/178/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТВ3 (+5) 
-http://cdn.vsemtv.top/175/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, БелРос 
-http://cdn.vsemtv.top/380/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Беларусь 1 
-http://cdn.vsemtv.top/381/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Беларусь 2 
-http://cdn.vsemtv.top/382/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Беларусь 3 
-http://cdn.vsemtv.top/383/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ВТВ 
-http://cdn.vsemtv.top/384/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, СТВ Беларусь 
-http://cdn.vsemtv.top/385/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, 1+1 
+#EXTINF:50, 1+1 
 http://cdn1.vsemtv.top/306/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, 1+1 Україна 
+#EXTINF:50,1+1 аЃаКбаАбаНаА
 http://cdn.vsemtv.top/340/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:0, 2+2 (Украина) 
 http://cdn1.vsemtv.top/308/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
@@ -197,37 +65,17 @@ http://cdn.vsemtv.top/311/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 http://cdn.vsemtv.top/319/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:0, Мега 
 http://cdn.vsemtv.top/314/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Сонце 
-http://cdn.vsemtv.top/320/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ОЦЕ 
+#EXTINF:50, ОЦЕ 
 http://cdn.vsemtv.top/321/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Enter-фильм 
-http://cdn.vsemtv.top/315/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, ТЕТ 
-http://cdn.vsemtv.top/342/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Бiгудi 
+#EXTINF:50,ааИаГбаДаИ
 http://cdn.vsemtv.top/343/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, FREEДОМ HD 
+#EXTINF:50, FREEДОМ HD 
 http://cdn.vsemtv.top/301/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:0, Прямий 
 http://cdn.vsemtv.top/344/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:0, Bambarbia TV 
 http://cdn.vsemtv.top/322/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, GTV (Одесса) 
-http://cdn.vsemtv.top/323/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, IНШИЙ 
-http://cdn.vsemtv.top/324/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Здоровье (Одесса) 
-http://cdn.vsemtv.top/326/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Измаил ТВ 
-http://cdn.vsemtv.top/327/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, КRATU (Херсон) 
-http://cdn.vsemtv.top/328/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, Круг (Одесса) 
-http://cdn.vsemtv.top/329/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, СК1 (Житомир) 
-http://cdn.vsemtv.top/331/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, М2 
+#EXTINF:50,M2
 http://cdn.vsemtv.top/332/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:0, Рада 
 http://cdn.vsemtv.top/334/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
@@ -235,15 +83,15 @@ http://cdn.vsemtv.top/334/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 http://cdn.vsemtv.top/336/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:0, Репортер (Одесса) 
 http://cdn.vsemtv.top/337/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, 24 Канал 
+#EXTINF:60,24 ааАаНаАаЛ
 http://cdn.vsemtv.top/338/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:60, А1 Одесса 
 http://cdn.vsemtv.top/339/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:50, Архат ТВ 
+#EXTINF:50,1+1 аЃаКбаАбаНаА
 http://cdn.vsemtv.top/340/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:100, CineMan 
 http://cdn.vsemtv.top/682/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:0, CineMan Premium 
+#EXTINF:100, CineMan Premium 
 http://cdn.vsemtv.top/1664/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:100, CineMan Top 
 http://cdn.vsemtv.top/683/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
