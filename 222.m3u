@@ -1,0 +1,209 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="BCU",BCU Multserial
+http://85.223.221.130:8000/play/a072
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/vip megahit.png",VIP Megahit
+http://edge05.beetv.kz:80/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Global Star tv.png",Start World
+http://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:-1 group-title="UA",ICTV
+http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/CNN International.png",Terra
+http://edge05.beetv.kz:80/btv/SWM/terra_hd/terra_hd.m3u8
+#EXTINF:-1 group-title="BCU",BCU-Fantastic
+http://85.223.221.130:8000/play/a029
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/CNN International.png",Terra
+http://edge05.beetv.kz:80/btv/SWM/terra_hd/terra_hd.m3u8
+#EXTINF:-1 group-title="VIJU",Viju+  Serial
+http://edge05.beetv.kz:80/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Global Star tv.png",Start Air
+http://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
+#EXTINF:-1 group-title="UA" tvg-logo="../Channel/Logo/2+2.png",2+2 HD
+http://maxi.goldmaxiptv.com:2086/uzaRCCR8d2/qbkbrswByK/94676
+#EXTINF:-1 group-title="BCU",BCU Catastrohe
+http://85.223.221.130:8000/play/a04l
+#EXTINF:-1 group-title="UA",I-UA TV HD
+http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
+#EXTINF:-1 group-title="VIJU",Viju+  Premiere
+http://edge05.beetv.kz:80/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/FilmBox.png",FilmUADrama
+http://edge05.beetv.kz:80/btv/SWM/FilmUADrama/FilmUADrama.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/H2.png",H2
+http://edge05.beetv.kz:80/btv/SWM/History2HD/History2HD.m3u8
+#EXTINF:-1 group-title="UA",ICTV
+http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="BCU",BCU Action
+https://stream1.servers.chd-tv.tk/bcu-action/index.m3u8
+#EXTINF:-1 group-title="VIJU",Viju+ Comedy
+http://178.160.249.210:8006/play/a05i/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Amedia Premium HD.png",Amedia Premium HD
+http://edge05.beetv.kz:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viju History
+http://edge05.beetv.kz:80/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
+#EXTINF:-1 group-title="BCU",BCU Catastrophe
+https://stream1.servers.chd-tv.tk/bcu-catastrophe/index.m3u8
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/vip comedy.png",VIP Comedy
+http://edge05.beetv.kz:80/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia Hit HD
+http://edge05.beetv.kz:80/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/History HD.png",History HD
+http://edge05.beetv.kz:80/btv/SWM/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1 group-title="BCU",BCU Cinema
+https://stream1.servers.chd-tv.tk/bcu-cinema/index.m3u8
+#EXTINF:-1 group-title="VIJU",Viju+ TV1000
+http://edge05.beetv.kz:80/btv/SWM/tv1000hd/tv1000hd.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia 2
+http://edge05.beetv.kz:80/btv/SWM/A2/A2.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Investigation Discovery HD.png",Discovery HD
+http://edge05.beetv.kz:80/btv/SWM/discovery_hd/discovery_hd.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/History HD.png",History HD
+http://edge05.beetv.kz:80/btv/SWM/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1 group-title="BCU",BCU Comedy
+https://stream1.servers.chd-tv.tk/bcu-comedy/index.m3u8
+#EXTINF:-1 group-title="VIJU",Viju+ TV1000 Action
+http://edge05.beetv.kz:80/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia 1
+http://edge05.beetv.kz:80/btv/SWM/A1/A1.m3u8
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/vip megahit.png",VIP Megahit
+http://edge05.beetv.kz:80/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/History HD.png",History HD R
+http://85.223.221.130:8000/play/a04c
+#EXTINF:-1 group-title="BCU",BCU Fantastic
+https://stream1.servers.chd-tv.tk/bcu-fantastic/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Fox Life.png",Fox Life
+http://edge05.beetv.kz:80/btv/SWM/FoxLife/FoxLife.m3u8
+#EXTINF:-1 group-title="VIJU",Viju+  Megahit
+http://178.160.249.210:8006/play/a05h/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/H2.png",H2
+http://edge05.beetv.kz:80/btv/SWM/History2HD/History2HD.m3u8
+#EXTINF:-1 group-title="BCU",BCU FilMystic
+https://stream1.servers.chd-tv.tk/bcu-filmystic/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Bollywood HD.png",Bollywood HD r
+http://edge05.beetv.kz:80/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/vip megahit.png",VIP Megahit HD
+http://mfe01.cliptv.az/dash/VIP_Megahit_HD_PIVuyhjmn45.ism/playlist.mpd
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Bollywood HD.png",Bollywood HD
+http://edge05.beetv.kz:80/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Discovery Channel HD.png",Discovery Central Europe HD
+http://91.146.94.234:10001/play/a041
+#EXTINF:-1 group-title="BCU",BCU History
+https://stream1.servers.chd-tv.tk/bcu-history/index.m3u8
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/vip comedy.png",VIP Comedy HD
+http://mfe02.cliptv.az/dash/VIP_Comedy_HD_PIVqwcvrtui79.ism/playlist.mpd
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Hollywood HD.png",Hollywood HD
+http://edge05.beetv.kz:80/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Discovery Channel HD.png",Discovery Turbo Xtra HD
+http://91.146.94.234:10001/play/a05d
+#EXTINF:-1 group-title="BCU",BCU Kids
+https://stream1.servers.chd-tv.tk/bcu-kids/index.m3u8
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/vip comedy.png",VIP Comedy
+http://edge05.beetv.kz:80/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Amedia Premium HD.png",Amedia Premium HD
+http://edge05.beetv.kz:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Investigation Discovery HD.png",Investigation Discovery HD
+http://91.146.94.234:10001/play/a045
+#EXTINF:-1 group-title="BCU",BCU Kinorating
+https://stream1.servers.chd-tv.tk/bcu-kinorating/index.m3u8
+#EXTINF:-1 group-title="VIJU",Viju+ Comedy
+http://178.160.249.210:8006/play/a05i/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia Hit HD
+http://edge05.beetv.kz:80/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Discovery Channel.png",Discovery Channel
+http://edge05.beetv.kz:80/btv/SWM/discovery_hd/discovery_hd.m3u8
+#EXTINF:-1 group-title="BCU",BCU Marvel
+https://stream1.servers.chd-tv.tk/bcu-marvel/index.m3u8
+#EXTINF:-1 group-title="VIJU",Viju+  Premiere
+http://edge05.beetv.kz:80/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia 2
+http://edge05.beetv.kz:80/btv/SWM/A2/A2.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Discovery Channel HD.png",Discovery Channel r
+http://85.223.221.130:8000/play/a06v
+#EXTINF:-1 group-title="BCU",BCU Premiere
+https://stream1.servers.chd-tv.tk/bcu-premiere/index.m3u8
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/vip premiere.png",VIP Premiere HD
+http://mfe02.cliptv.az/dash/VIP_Premium_HD_PIVqwerty89.ism/playlist.mpd
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia 1
+http://edge05.beetv.kz:80/btv/SWM/A1/A1.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Discovery Channel HD.png",Discovery Channel r2
+https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
+#EXTINF:-1 group-title="BCU",BCU RUSerial
+https://stream1.servers.chd-tv.tk/bcu-ruserial/index.m3u8
+#EXTINF:-1 group-title="VIJU",Viju+  Serial
+http://edge05.beetv.kz:80/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/Fox Life.png",Fox Life
+http://edge05.beetv.kz:80/btv/SWM/FoxLife/FoxLife.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Investigation Discovery HD.png",Discovery HD
+http://88.216.83.245/discovery/index.m3u8
+#EXTINF:-1 group-title="BCU",BCU Reality
+https://stream1.servers.chd-tv.tk/bcu-reality/index.m3u8
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/VIP Serial.png",VIP Serial HD
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/FOX.png",Fox
+http://edge05.beetv.kz:80/btv/SWM/FOX/FOX.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Discovery Science.png",Discovery Science
+http://91.146.94.234:10001/play/a03q
+#EXTINF:-1 group-title="BCU",BCU Romantic
+https://stream1.servers.chd-tv.tk/bcu-romantic/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="../Channel/Logo/FilmBox.png",FilmUADrama
+http://edge05.beetv.kz:80/btv/SWM/FilmUADrama/FilmUADrama.m3u8
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/VIP Serial.png",VIP Serial
+http://94.229.250.73:8008/play/a003
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Discovery Science HD.png",Discovery Science r
+http://85.223.221.130:8000/play/a052
+#EXTINF:-1 group-title="BCU",BCU Russian
+https://stream1.servers.chd-tv.tk/bcu-russian/index.m3u8
+#EXTINF:-1 group-title="VIJU",Viju+ TV1000 Action
+http://84.17.61.200:8085/udp/238.2.0.83:1234
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/National Geographic.png",National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCU",BCU Stars
+https://stream1.servers.chd-tv.tk/bcu-stars/index.m3u8
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/Bridge TV Hits.png",TV 1000 Action
+http://178.160.249.210:8006/play/a00e/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/National Geographic HD.png",National Geographic r
+http://85.223.221.130:8000/play/a085
+#EXTINF:-1 group-title="BCU",BCU VHS
+https://stream1.servers.chd-tv.tk/bcu-vhs/index.m3u8
+#EXTINF:-1 group-title="VIJU",Viju TV1000 Action
+http://edge05.beetv.kz:80/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Nat Geo Wild HD.png",Nat Geo Wild HD
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIJU",Viju+  TV-1000 Action
+https://sc.id-tv.kz:443/TV1000Action_34_35.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Nat Geo Wild.png",Nat Geo Wild
+http://85.223.221.130:8000/play/a083
+#EXTINF:-1 group-title="VIJU",Viju+  TV 1000 Action r3
+https://sc.id-tv.kz:443/TV1000Action_34_35.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Discovery Science HD.png",Science Europe HD
+http://91.146.94.234:10001/play/a03q
+#EXTINF:-1 group-title="VIJU",Viju+ TV1000
+http://streamer1.ruslanatv.ru/russia/tv1000_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Travel channel HD.png",Travel Channel HD
+http://91.146.94.234:10001/play/a04c
+#EXTINF:-1 group-title="VIJU",Viju+ TV 1000
+http://edge05.beetv.kz:80/btv/SWM/tv1000hd/tv1000hd.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Travel channel HD.png",Travel Channel hd
+http://85.223.221.130:8000/play/a04g
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/TV1000.png",TV1000
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Travel channel HD.png",Travel Channel r
+http://88.216.83.245/travel/index.m3u8
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/TV1000 HD.png",TV1000 r
+http://178.160.249.210:8006/play/a00f/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Travel+ adventure.png",Travel+ Adventure
+http://85.223.221.130:8000/play/a04z
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/MTV 80s.png",TV 1000
+http://176.107.250.4:8001/ch36
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/TLC.png",TLC
+http://85.223.221.130:8000/play/a08k
+#EXTINF:-1 group-title="VIJU" tvg-logo="../Channel/Logo/TV1000 HD.png",TV1000 r2
+http://93.189.224.24/TV1000/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/DocuBox.png",DOCU BOX
+http://85.223.221.130:8000/play/a05i
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Animal Planet.png",Animal Planet
+http://85.223.221.130:8000/play/a070
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",SEA TV
+http://85.223.221.130:8000/play/a088
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="../Channel/Logo/Food network HD.png",FOOD
+http://85.223.221.130:8000/play/a08g
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viju History
+http://edge05.beetv.kz:80/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
