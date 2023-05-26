@@ -1,1163 +1,1163 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Остросюжетное.png",Остросюжетное HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Остросюжетное HD",Остросюжетное HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9044/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Action
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/35/59461f67513e83fc46e0a5bd25869835.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Action HD",BCU Action
 https://stream1.servers.chd-tv.tk/bcu-action/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Остросюжетное.png",Остросюжетное HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Остросюжетное HD",Остросюжетное HD
 http://cdn.vsemtv.top/604/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Остросюжетное.png",ОСТРОСЮЖЕТНОЕ HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Остросюжетное HD",ОСТРОСЮЖЕТНОЕ HD
 http://84.17.61.200:8085/udp/238.2.17.112:1234
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/TV1000 HD.png",TV1000 HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/TV1000 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000",TV1000 HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9058/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Catastrophe
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/51/f833a98a6dbf8da3b0e7b29016dc0051.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Catastrophe HD",BCU Catastrophe
 https://stream1.servers.chd-tv.tk/bcu-catastrophe/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/TV1000.png",TV1000
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/TV1000.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000",TV1000
 http://cdn.vsemtv.top/622/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/rmszRPmQ/c1.png",Clarity4K Netflix
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/rmszRPmQ/c1.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Clarity4K Netflix",Clarity4K Netflix
 http://test.clarity4k.ru/Netflix_4K/video.m3u8?token=test
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/TV1000 Русское кино HD.png",TV1000 Русское HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/TV1000 Русское кино HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000 Русское кино",TV1000 Русское HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9059/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Cinema
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/7a/6efc99b105fa59200d133b005fe22b7a.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Cinema HD",BCU Cinema
 https://stream1.servers.chd-tv.tk/bcu-cinema/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/TV1000 Action.png",TV1000 Action
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/TV1000 Action.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000 Action",TV1000 Action
 http://cdn.vsemtv.top/623/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/Gmjkk6LC/c3.png",Clarity4K Сделано в СССР
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/Gmjkk6LC/c3.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Clarity4K Сделано в СССР",Clarity4K Сделано в СССР
 http://test.clarity4k.ru/made_in_the_USSR_4K/video.m3u8?token=test
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/TV1000 Action HD.png",TV1000 Action HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/TV1000 Action HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000 Action",TV1000 Action HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9057/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Comedy
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/f4/72f5d0bbf39cb89fd60a9f073a1067f4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Comedy HD",BCU Comedy
 https://stream1.servers.chd-tv.tk/bcu-comedy/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/TV1000 Русское кино.png",TV1000 Русское кино
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/TV1000 Русское кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000 Русское кино",TV1000 Русское кино
 http://cdn.vsemtv.top/621/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/wv1LYvhq/c4.png",Clarity4K Приключения
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/wv1LYvhq/c4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Clarity4K Приключения",Clarity4K Приключения
 http://test.clarity4k.ru/adventures_4K/video.m3u8?token=test
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/vip premiere.png",VIP Premiere orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/vip premiere.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ViP Premiere",VIP Premiere orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/5079/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Fantastic
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/1f/e86eff09d0d497a5f39ed7f97295931f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Fantastic HD",BCU Fantastic
 https://stream1.servers.chd-tv.tk/bcu-fantastic/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/vip premiere.png",VIP Premiere HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/vip premiere.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ViP Premiere",VIP Premiere HD
 http://cdn.vsemtv.top/605/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/tJP67MS8/c5.png",Clarity4K Ужасы
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/tJP67MS8/c5.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Clarity4K Ужасы",Clarity4K Ужасы
 http://test.clarity4k.ru/horrors/video.m3u8?token=test
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/vip comedy.png",VIP Comedy orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/vip comedy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ViP Comedy",VIP Comedy orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/5080/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU FilMystic
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/d4/583fff4936889bbd459157bcf49d15d4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU FilMystic HD",BCU FilMystic
 https://stream1.servers.chd-tv.tk/bcu-filmystic/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/vip megahit.png",VIP Megahit HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/vip megahit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ViP Megahit",VIP Megahit HD
 http://cdn.vsemtv.top/606/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/R0NNNYqG/c6.png",Clarity4K Фантастика
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/R0NNNYqG/c6.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Clarity4K Фантастика",Clarity4K Фантастика
 http://test.clarity4k.ru/fantastic/video.m3u8?token=test
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/vip megahit.png",VIP Megahit orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/vip megahit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ViP Megahit",VIP Megahit orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/5081/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU History
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/5e/a26c44d68845e1baf34d413edeeab65e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU History HD",BCU History
 https://stream1.servers.chd-tv.tk/bcu-history/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/vip comedy.png",VIP Comedy HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/vip comedy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ViP Comedy",VIP Comedy HD
 http://cdn.vsemtv.top/607/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/kXqGxGB2/c8.png",Clarity4k Драмы
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/kXqGxGB2/c8.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Clarity4k Драмы",Clarity4k Драмы
 http://test.clarity4k.ru/dramas_4K/video.m3u8?token=test
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/VIP Serial.png",VIP Serial HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/VIP Serial.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VIP Serial HD",VIP Serial HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9245/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Kids
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/79/9320b650c2f0af64e58a7d0b2a880a79.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Kids HD",BCU Kids
 https://stream1.servers.chd-tv.tk/bcu-kids/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Cinema.png",CineMan
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan HD",CineMan
 http://cdn.vsemtv.top/682/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/ZYFKKmV4/c9.png",Clarity4k Военные
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/ZYFKKmV4/c9.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Clarity4k Военные",Clarity4k Военные
 http://test.clarity4k.ru/military_4k/video.m3u8?token=test
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Первый канал.png",Первый FHD
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый канал",Первый FHD
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/2402/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Kinorating
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/0d/6cef79b63fd1dd5752a95aec64f7fd0d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Kinorating HD",BCU Kinorating
 https://stream1.servers.chd-tv.tk/bcu-kinorating/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://5.9.87.78:8505/pics/CineManPremium.png",CineMan Premium
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://5.9.87.78:8505/pics/CineManPremium.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Premium HD",CineMan Premium
 http://cdn.vsemtv.top/1664/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/52jx3C12/c10.png",Clarity4k Вестерн
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/52jx3C12/c10.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Clarity4k Вестерн",Clarity4k Вестерн
 http://test.clarity4k.ru/western_4k/video.m3u8?token=test
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия FHD
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Россия 1",Россия FHD
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/2409/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Marvel
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/cd/372a6b63dda414e030ee7223f87161cd.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Marvel HD",BCU Marvel
 https://stream1.servers.chd-tv.tk/bcu-marvel/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png",CineMan Top
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Top HD",CineMan Top
 http://cdn.vsemtv.top/683/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/GhmrLy4x/c11.pngg",Clarity4k Единоборства
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/GhmrLy4x/c11.pngg" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Clarity4k Единоборства",Clarity4k Единоборства
 http://test.clarity4k.ru/martial_arts_4k/video.m3u8?token=test
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТНТ HD.png",ТНТ FHD
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТНТ",ТНТ FHD
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/2417/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Premiere
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/87/5f5a31eca8ae7dd43257e4ad50228a87.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere HD",BCU Premiere
 https://stream1.servers.chd-tv.tk/bcu-premiere/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png",CineMan Катастрофы
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Катастрофы HD",CineMan Катастрофы
 http://cdn.vsemtv.top/693/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/5ynXHW57/c12.png",Clarity4k Concert
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/5ynXHW57/c12.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Clarity4k Concert",Clarity4k Concert
 http://test.clarity4k.ru/concert_4k/video.m3u8?token=test
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дом кино премиум HD.png",Премиальное FHD
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Премиальное HD",Премиальное FHD
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/2410/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU RUSerial
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/a1/f8dbf92918e05eb4b053a4f34e81e2a1.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU RUSERIAL HD",BCU RUSerial
 https://stream1.servers.chd-tv.tk/bcu-ruserial/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png",CineMan Action
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Action HD",CineMan Action
 http://cdn.vsemtv.top/689/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/4yT0Yr49/c13.png",Clarity4K Ukrainian music
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="https://i.postimg.cc/4yT0Yr49/c13.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Clarity4K Ukrainian music",Clarity4K Ukrainian music
 http://test.clarity4k.ru/music_ukraine/video.m3u8?token=test
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/National Geographic HD.png",National Geographic FHD
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/National Geographic HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_National Geographic HD",National Geographic FHD
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/2416/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Reality
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/fe/bf3a89e0c7b07fd8b13f4f1bb6a65dfe.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Reality HD",BCU Reality
 https://stream1.servers.chd-tv.tk/bcu-reality/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png",CineMan Thriller
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Thriller HD",CineMan Thriller
 http://cdn.vsemtv.top/686/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/VIP Serial.png",VIP Serial
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/VIP Serial.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VIP Serial HD",VIP Serial
 http://edge05.beetv.kz:80/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Nat Geo Wild HD.png",Nat Geo Wild FHD
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Nat Geo Wild HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nat Geo Wild HD",Nat Geo Wild FHD
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/2415/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Romantic
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/a7/b69babd34df400a2091195e2c0511da7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Romantic HD",BCU Romantic
 https://stream1.servers.chd-tv.tk/bcu-romantic/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png",CineMan Melodrama
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Мелодрама HD",CineMan Melodrama
 http://cdn.vsemtv.top/690/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/vip premiere.png",VIP Premiere
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/vip premiere.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ViP Premiere",VIP Premiere
 http://edge05.beetv.kz:80/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Еда Премиум.png",ЕДА Премиум FHD
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Еда Премиум.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Еда Премиум",ЕДА Премиум FHD
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/2418/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Russian
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/91/7d4200dead911b08723f6edebefb2191.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Russian HD",BCU Russian
 https://stream1.servers.chd-tv.tk/bcu-russian/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png",CineMan Marvel
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Marvel HD",CineMan Marvel
 http://cdn.vsemtv.top/688/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/vip megahit.png",VIP Megahit
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/vip megahit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ViP Megahit",VIP Megahit
 http://edge05.beetv.kz:80/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Food network HD.png",Food Network FHD
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Food network HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Food Network",Food Network FHD
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/2419/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU Stars
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/c4/cdbb6224861767471684e86e696863c4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Stars HD",BCU Stars
 https://stream1.servers.chd-tv.tk/bcu-stars/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png",CineMan Ужасы
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Ужасы HD",CineMan Ужасы
 http://cdn.vsemtv.top/692/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/vip comedy.png",VIP Comedy
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/vip comedy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ViP Comedy",VIP Comedy
 http://edge05.beetv.kz:80/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/DTX HD.png",DTX HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/DTX HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_DTX",DTX HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/5064/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",BCU VHS
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i117.fastpic.org/big/2022/0515/34/fc84e5a5fb536670e184235cf2471e34.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU VHS HD",BCU VHS
 https://stream1.servers.chd-tv.tk/bcu-vhs/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png",CineMan Комедия
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Комедия HD",CineMan Комедия
 http://cdn.vsemtv.top/691/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Киноужас.png",КИНОУЖАС HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Киноужас.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киноужас HD",КИНОУЖАС HD
 http://84.17.61.200:8085/udp/238.2.1.3:1234
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дом кино премиум HD_.png",Дом кино Премиум HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дом кино премиум HD_.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дом Кино Премиум",Дом кино Премиум HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/5082/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png",CineMan VHS
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan VHS HD",CineMan VHS
 http://cdn.vsemtv.top/685/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Кино ТВ HD.png",КИНО ТВ HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кино ТВ",КИНО ТВ HD
 http://84.17.61.200:8085/udp/238.2.17.125:1234
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/СТС HD.png",СТС HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_СТС",СТС HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9000/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png",CineMan РуКино
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan РуКино HD",CineMan РуКино
 http://cdn.vsemtv.top/687/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Дорама.png",Дорама HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дорама",Дорама HD
 http://edge05.beetv.kz:80/btv/SWM/Dorama/Dorama.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/History 2 HD .png",HD Life orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/History 2 HD .png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_HDL",HD Life orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9008/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png",CineMan ПёС
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan ПёС HD",CineMan ПёС
 http://cdn.vsemtv.top/1658/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Дом кино премиум HD.png",Дом кино премиум HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дом Кино Премиум",Дом кино премиум HD
 http://edge05.beetv.kz:80/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Luxury HD.png",LUXURY WORLD HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Luxury HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Luxury HD",LUXURY WORLD HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9038/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png",CineMan Ментовские Войны
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Ментовские Войны HD",CineMan Ментовские Войны
 http://cdn.vsemtv.top/1657/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Беларусь 1.png",БЕЛАРУСЬ 1 HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Беларусь 1",БЕЛАРУСЬ 1 HD
 rtmp://5.182.231.251//2178
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Эврика HD.png",Эврика HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9049/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png",CineMan Лесник
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Лесник HD",CineMan Лесник
 http://cdn.vsemtv.top/1659/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Беларусь 2 HD.png",БЕЛАРУСЬ 2 HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Беларусь 2 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Беларусь 2",БЕЛАРУСЬ 2 HD
 rtmp://5.182.231.251//2179
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/РЕН ТВ HD.png",Рен ТВ HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РЕН ТВ",Рен ТВ HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9002/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png",CineMan Сваты
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Сваты HD",CineMan Сваты
 http://cdn.vsemtv.top/684/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Беларусь 3.png",БЕЛАРУСЬ 3 HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Беларусь 3",БЕЛАРУСЬ 3 HD
 rtmp://5.182.231.251//2174
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Шокирующее.png",Шокирующее HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Шокирующее",Шокирующее HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9004/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png",CineMan Скорая помощь
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Скорая помощь HD",CineMan Скорая помощь
 http://cdn.vsemtv.top/694/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Беларусь 5.png",БЕЛАРУСЬ 5 HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Беларусь 5.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Беларусь 5",БЕЛАРУСЬ 5 HD
 rtmp://5.182.231.251//2175
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кинокомедия.png",Комедийное HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Комедийное",Комедийное HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9005/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png",CineMan MiniSeries
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Miniseries HD",CineMan MiniSeries
 http://cdn.vsemtv.top/1662/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/VIP Serial.png",VIP Serial
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/VIP Serial.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VIP Serial HD",VIP Serial
 http://94.229.250.73:8008/play/a003
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Hollywood HD.png",Hollywood HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Hollywood HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Hollywood HD",Hollywood HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9017/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png",CineMan Симпсоны
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan Симпсоны HD",CineMan Симпсоны
 http://cdn.vsemtv.top/522/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Star Family HD.png",Star Family HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Star Family HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Star Family (Россия)",Star Family HD
 https://cranberry.uvs.onlinetv.link/nodvr/star_family/playlist.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/FOX HD.png",FOX HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/FOX HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Fox HD",FOX HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9018/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кино ТВ HD.png",Кино ТВ HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кино ТВ",Кино ТВ HD
 http://cdn.vsemtv.top/600/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/3092.png",FOX HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/3092.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Fox HD",FOX HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кинопремьера.png",Кинопремьера HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинопремьера",Кинопремьера HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9020/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",KBC Fantastic
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i120.fastpic.org/big/2022/0731/28/f637ba39a8baf1b04d52a6e93e3d1d28.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KBC-Fantastic",KBC Fantastic
 http://85.223.221.130:8000/play/a029
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Еда Премиум.png",Премиальное HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Еда Премиум.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Премиальное HD",Премиальное HD
 http://cdn.vsemtv.top/612/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/1395.png",Bollywood HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/1395.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bollywood HD",Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Premium HD.png",Amedia premium HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Amedia Premium HD",Amedia premium HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9022/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Шокирующее.png",Шокирующее HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Шокирующее",Шокирующее HD
 http://cdn.vsemtv.top/1661/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/3069.png",Amedia Hit HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/3069.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Amedia Hit HD",Amedia Hit HD
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",A2 HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="http://i121.fastpic.org/big/2022/1231/44/204a6d9703bed0b3bc20413767f95f44.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_A2",A2 HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9029/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кинохит.png",Кинохит
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинохит",Кинохит
 http://cdn.vsemtv.top/608/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/542.png",Кинохит HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/542.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинохит",Кинохит HD
 https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киноужас.png",Киноужас HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киноужас.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киноужас HD",Киноужас HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9033/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",Viju+ TV1000 Action
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i121.fastpic.org/big/2023/0303/1d/f725bde2099ef326531ecf8be3cb571d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Sport",Viju+ TV1000 Action
 http://edge05.beetv.kz:80/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киномикс.png",Киномикс
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киномикс",Киномикс
 http://cdn.vsemtv.top/609/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/462.png",Киносвидание HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/462.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киносвидание",Киносвидание HD
 https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Sony Channel.png",Sony Channel HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Sony Channel.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_• red",Sony Channel HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9035/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киносемья.png",Киносемья
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киносемья",Киносемья
 http://cdn.vsemtv.top/610/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/566.png",КИНОПРЕМЬЕРА HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/566.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинопремьера",КИНОПРЕМЬЕРА HD
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский роман.png",Русский роман HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русский роман",Русский роман HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9041/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",Viju+ TV1000
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i121.fastpic.org/big/2023/0303/1d/f725bde2099ef326531ecf8be3cb571d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Sport",Viju+ TV1000
 http://edge05.beetv.kz:80/btv/SWM/tv1000hd/tv1000hd.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кинокомедия.png",Кинокомедия
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинокомедия",Кинокомедия
 http://cdn.vsemtv.top/654/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/644.png",Киномикс HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/644.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киномикс",Киномикс HD
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наш кинороман.png",Наш кинороман HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наш кинороман.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Душевное HD",Наш кинороман HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9045/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киносвидание.png",Киносвидание
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киносвидание",Киносвидание
 http://cdn.vsemtv.top/614/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/821.png",Кинокомедия HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/821.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинокомедия",Кинокомедия HD
 https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше Мужское.png",Наше HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше Мужское.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наше HD",Наше HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9046/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кинопремьера.png",Кинопремьера HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинопремьера",Кинопремьера HD
 http://cdn.vsemtv.top/613/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://ottpink.network/picons/ictv_hd_ua.png",ICTV HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://ottpink.network/picons/ictv_hd_ua.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ICTV",ICTV HD
 http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кино ТВ HD.png",Кино ТВ HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кино ТВ",Кино ТВ HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9051/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киноужас.png",Киноужас HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киноужас.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киноужас HD",Киноужас HD
 http://cdn.vsemtv.top/642/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",УНІАН
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i120.fastpic.org/big/2022/1026/c0/fa2490264d48c100a066ab484ac7c6c0.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Униан ТВ",УНІАН
 http://portal.ott.pink/watch/236/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше любимое кино.png",Наше любимое HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Любимое HD",Наше любимое HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9062/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кинопоказ HD.png",Кинопоказ
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинопоказ",Кинопоказ
 http://cdn.vsemtv.top/611/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://ottpink.network/picons/uapershiykanhd.png",Суспільне Перший HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://ottpink.network/picons/uapershiykanhd.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Суспільне Новини",Суспільне Перший HD
 http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Premium HD.png",Amedia 1 HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_A1",Amedia 1 HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9069/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киносерия.png",Киносерия HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киносерия",Киносерия HD
 http://cdn.vsemtv.top/650/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",Суспільне Київ HD (UA)
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i120.fastpic.org/big/2022/1111/cf/9a9882f5a00e27dafa1827a05a78e6cf.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_UA Культура",Суспільне Київ HD (UA)
 http://portal.ott.pink/watch/7592/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia Hit HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Amedia Hit HD",Amedia Hit HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9070/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Мужское кино.png",Мужское кино HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мужское кино",Мужское кино HD
 http://cdn.vsemtv.top/633/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",Прямий HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i120.fastpic.org/big/2022/1026/f9/5534fd8e5d66529d1d330c1edb0c45f9.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Прямий",Прямий HD
 http://portal.ott.pink/watch/14/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Еврокино.png",Еврокино HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Еврокино",Еврокино HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9078/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Дом кино.png",Дом кино
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дом кино",Дом кино
 http://cdn.vsemtv.top/635/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Сочи 24 HD.png",24 Канал HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="../Channel/Logo/Сочи 24 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_24 канал",24 Канал HD
 http://portal.ott.pink/watch/324/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Иллюзион+.png",Иллюзион+ HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Иллюзион+",Иллюзион+ HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9079/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/vip comedy.png",VIP Comedy
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/vip comedy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ViP Comedy",VIP Comedy
 http://edge05.beetv.kz:80/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Дом кино премиум HD.png",Дом кино премиум HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дом Кино Премиум",Дом кино премиум HD
 http://cdn.vsemtv.top/603/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",Эспресо ТВ HD UA
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i120.fastpic.org/big/2022/1026/61/c0cbcee2631d4cac7310a9f611b21b61.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Еспресо TV",Эспресо ТВ HD UA
 http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский иллюзион.png",Русский иллюзион HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский иллюзион.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русский Иллюзион",Русский иллюзион HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9080/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киносемья.png",Киносат
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_КиноСат",Киносат
 http://cdn.vsemtv.top/653/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:-1 group-title="@tasixiptv",Армія ТВ HD (UA)
 http://portal.ott.pink/watch/7572/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наш кинопоказ.png",Наш Кинопоказ HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наш кинопоказ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наш Кинопоказ",Наш Кинопоказ HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9086/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Камеди.png",Камеди HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Камеди.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Камеди",Камеди HD
 http://cdn.vsemtv.top/676/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/2079.png",5 канал UA
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/2079.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_5 канал",5 канал UA
 http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Блокбастер.png",Блокбастер HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Блокбастер.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Блокбастер",Блокбастер HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9087/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/vip megahit.png",VIP Megahit
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/vip megahit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ViP Megahit",VIP Megahit
 http://edge05.beetv.kz:80/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Комедия.png",Комедия
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Комедия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Комедия",Комедия
 http://cdn.vsemtv.top/671/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://ottpink.network/picons/1plus1hd.png",1+1 Марафон HD (UA)
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://ottpink.network/picons/1plus1hd.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_1+1",1+1 Марафон HD (UA)
 http://portal.ott.pink/watch/45/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше Мужское.png",Наше Мужское HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше Мужское.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наше Мужское",Наше Мужское HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9088/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кинокомедия.png",Комедийное HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Комедийное",Комедийное HD
 http://cdn.vsemtv.top/617/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Action
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/35/59461f67513e83fc46e0a5bd25869835.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Action HD",BCU Action
 https://stream1.servers.chd-tv.tk/bcu-action/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Про любовь.png",Про Любовь HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Про Любовь",Про Любовь HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9089/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Страшное HD.png",Страшное HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Страшное HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Страшное HD",Страшное HD
 http://cdn.vsemtv.top/618/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Catastrophe
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/51/f833a98a6dbf8da3b0e7b29016dc0051.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Catastrophe HD",BCU Catastrophe
 https://stream1.servers.chd-tv.tk/bcu-catastrophe/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Хит HD.png",Хит HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Хит HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Хит HD",Хит HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9090/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Hollywood.png",Hollywood
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Hollywood.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Hollywood",Hollywood
 http://cdn.vsemtv.top/634/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Cinema
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/7a/6efc99b105fa59200d133b005fe22b7a.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Cinema HD",BCU Cinema
 https://stream1.servers.chd-tv.tk/bcu-cinema/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Камеди.png",Камеди HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Камеди.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Камеди",Камеди HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9091/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",Viju+  Premiere
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i121.fastpic.org/big/2023/0303/1d/f725bde2099ef326531ecf8be3cb571d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Sport",Viju+  Premiere
 http://edge05.beetv.kz:80/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Hollywood HD.png",Hollywood HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Hollywood HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Hollywood HD",Hollywood HD
 http://cdn.vsemtv.top/669/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Comedy
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/f4/72f5d0bbf39cb89fd60a9f073a1067f4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Comedy HD",BCU Comedy
 https://stream1.servers.chd-tv.tk/bcu-comedy/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кинопоказ HD.png",Кинопоказ HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинопоказ HD",Кинопоказ HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9092/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Наше Крутое.png",Наше крутое HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Наше Крутое.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наше HD",Наше крутое HD
 http://cdn.vsemtv.top/616/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Fantastic
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/1f/e86eff09d0d497a5f39ed7f97295931f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Fantastic HD",BCU Fantastic
 https://stream1.servers.chd-tv.tk/bcu-fantastic/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Приключения HD.png",Приключения HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Приключения HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Приключения HD",Приключения HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9007/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",Viju+  Serial
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i121.fastpic.org/big/2023/0303/1d/f725bde2099ef326531ecf8be3cb571d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Sport",Viju+  Serial
 http://edge05.beetv.kz:80/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Наш кинороман.png",Наш кинороман HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Наш кинороман.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Душевное HD",Наш кинороман HD
 http://cdn.vsemtv.top/615/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU FilMystic
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/d4/583fff4936889bbd459157bcf49d15d4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU FilMystic HD",BCU FilMystic
 https://stream1.servers.chd-tv.tk/bcu-filmystic/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Investigation Discovery HD.png",Discovery HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Investigation Discovery HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ID Investigation Discovery (Европа)",Discovery HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9011/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Наше новое кино.png",Наше новое кино
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наше Новое Кино",Наше новое кино
 http://cdn.vsemtv.top/620/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU History
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/5e/a26c44d68845e1baf34d413edeeab65e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU History HD",BCU History
 https://stream1.servers.chd-tv.tk/bcu-history/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/H2 HD.png",H2 HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/H2 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_H2 HD",H2 HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9013/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Cinema.png",Cinema
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CINEMA",Cinema
 http://cdn.vsemtv.top/628/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Kids
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/79/9320b650c2f0af64e58a7d0b2a880a79.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Kids HD",BCU Kids
 https://stream1.servers.chd-tv.tk/bcu-kids/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Animal Planet HD.png",Animal Planet HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Animal Planet HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Animal Planet CEE",Animal Planet HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9016/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/VIP Serial.png",VIP Serial
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/VIP Serial.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VIP Serial HD",VIP Serial
 http://94.229.250.73:8008/play/a003
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Bolt HD.png",Bolt HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bolt (UA)",Bolt HD
 http://cdn.vsemtv.top/637/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Kinorating
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/0d/6cef79b63fd1dd5752a95aec64f7fd0d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Kinorating HD",BCU Kinorating
 https://stream1.servers.chd-tv.tk/bcu-kinorating/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Travel+ adventure HD.png",Travel+Adventure HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Travel+ adventure HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Travel+ Adventure HD",Travel+Adventure HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9019/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Paramount Comedy.png",Paramount Comedy
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Paramount Comedy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Comedy Central",Paramount Comedy
 http://edge05.beetv.kz:80/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/TV XXI.png",TV XXI
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/TV XXI.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV XXI",TV XXI
 http://cdn.vsemtv.top/601/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Marvel
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/cd/372a6b63dda414e030ee7223f87161cd.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Marvel HD",BCU Marvel
 https://stream1.servers.chd-tv.tk/bcu-marvel/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/RTG HD.png",RTG HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/RTG HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RTG HD",RTG HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9021/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Еврокино.png",Еврокино
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Еврокино",Еврокино
 http://cdn.vsemtv.top/602/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Premiere
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/87/5f5a31eca8ae7dd43257e4ad50228a87.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere HD",BCU Premiere
 https://stream1.servers.chd-tv.tk/bcu-premiere/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/TLC HD.png",TLC HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/TLC HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TLC HD",TLC HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9024/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Русский роман.png",Русский роман
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русский роман",Русский роман
 http://cdn.vsemtv.top/629/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Reality
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/fe/bf3a89e0c7b07fd8b13f4f1bb6a65dfe.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Reality HD",BCU Reality
 https://stream1.servers.chd-tv.tk/bcu-reality/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Travel channel HD.png",Travel Channel HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Travel channel HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Travel Channel CEE HD",Travel Channel HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9025/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Русский бестселлер.png",Русский бестселлер
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Русский бестселлер.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русский бестселлер",Русский бестселлер
 http://cdn.vsemtv.top/630/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Romantic
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/a7/b69babd34df400a2091195e2c0511da7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Romantic HD",BCU Romantic
 https://stream1.servers.chd-tv.tk/bcu-romantic/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/HD Media.png",HD media orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/HD Media.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_HD Media",HD media orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9026/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Русский иллюзион.png",Русский Иллюзион
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Русский иллюзион.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русский Иллюзион",Русский Иллюзион
 http://cdn.vsemtv.top/631/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU RUSerial
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/a1/f8dbf92918e05eb4b053a4f34e81e2a1.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU RUSERIAL HD",BCU RUSerial
 https://stream1.servers.chd-tv.tk/bcu-ruserial/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat nature HD.png",Viasat Nature/History HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat nature HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Nature/History HD",Viasat Nature/History HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9027/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Русский детектив.png",Русский детектив
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Русский детектив.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русский Детектив",Русский детектив
 http://cdn.vsemtv.top/679/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Russian
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/91/7d4200dead911b08723f6edebefb2191.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Russian HD",BCU Russian
 https://stream1.servers.chd-tv.tk/bcu-russian/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Investigation Discovery HD.png",Discovery HD Showcase orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Investigation Discovery HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Discovery Channel HD",Discovery HD Showcase orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9034/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Иллюзион+.png",Иллюзион +
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Иллюзион+",Иллюзион +
 http://cdn.vsemtv.top/638/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Stars
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/c4/cdbb6224861767471684e86e696863c4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Stars HD",BCU Stars
 https://stream1.servers.chd-tv.tk/bcu-stars/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Живая природа.png",Живая природа HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Живая природа.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Живая природа",Живая природа HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9039/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Cinema.png",Cinema
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CINEMA",Cinema
 http://edge05.beetv.kz:80/btv/SWM/CINEMA/CINEMA.m3u8
-#EXTINF:-1 group-title="vsemtv.top",Epic Drama HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i115.fastpic.org/big/2021/0923/32/140c2d42d0e5f38871bb48cdc3c4e832.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Epic Drama HD",Epic Drama HD
 http://cdn.vsemtv.top/656/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU VHS
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/34/fc84e5a5fb536670e184235cf2471e34.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU VHS HD",BCU VHS
 https://stream1.servers.chd-tv.tk/bcu-vhs/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png",Охотник и Рыболов HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Охотник и рыболов HD",Охотник и Рыболов HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9043/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Paramount Comedy.png",Paramount Comedy
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Paramount Comedy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Comedy Central",Paramount Comedy
 http://cdn.vsemtv.top/645/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Кинозал Premiere 1
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/e9/b0687e750cdbf80d529880d5498865e9.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere 1 HD",BCU Кинозал Premiere 1
 https://stream1.servers.chd-tv.tk/bcu-kinozal-premiere-1/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/В мире животных.png",В мире животных HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_В мире животных",В мире животных HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9048/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/SONY ТВ.png",Sony
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/SONY ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_• red",Sony
 http://cdn.vsemtv.top/647/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Кинозал Premiere 2
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/76/b28f9a24ab24b870e6a9d055e7971c76.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere 2 HD",BCU Кинозал Premiere 2
 https://stream1.servers.chd-tv.tk/bcu-kinozal-premiere-2/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТНВ-Планета (Казань).png",Планета HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТНВ-Планета (Казань).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Моя Планета",Планета HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9050/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Sony Sci-Fi.png",Sony Sci-Fi
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Sony Sci-Fi.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_• sci-fi",Sony Sci-Fi
 http://cdn.vsemtv.top/648/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Кинозал Premiere 3
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere 3 HD",BCU Кинозал Premiere 3
 https://stream1.servers.chd-tv.tk/bcu-kinozal-premiere-3/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ID HD.png",ID Xtra HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ID HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ID Investigation Discovery (Европа)",ID Xtra HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9054/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Hollywood.png",Hollywood
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Hollywood.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Hollywood",Hollywood
 http://edge05.beetv.kz:80/btv/SWM/Hollywood/Hollywood.m3u8
-#EXTINF:-1 group-title="vsemtv.top",.black
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i120.fastpic.org/big/2022/0823/cf/be019c62d32c3d19a8c1190eabdb86cf.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_• black",.black
 http://cdn.vsemtv.top/649/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv",BCU Мультсериал
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://i117.fastpic.org/big/2022/0515/12/ece339f2e3f82706ee5e91fd30241212.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Мультсериал HD",BCU Мультсериал
 https://stream1.servers.chd-tv.tk/bcu-multserial/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat history HD.png",Viasat History HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat history HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat History",Viasat History HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9060/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/FOX.png",Fox
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/FOX.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Fox HD",Fox
 http://cdn.vsemtv.top/626/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/2518.png",Дорама HD
+#EXTINF:-1 group-title="@tasixiptv" tvg-logo="http://epg.it999.ru/img/2518.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дорама",Дорама HD
 https://sc.id-tv.kz/dorama_hd_34_35.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Глазами туриста.png",Глазами туриста HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Глазами туриста.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Глазами туриста",Глазами туриста HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9061/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Fox Life.png",Fox Life
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Fox Life.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Fox Life HD",Fox Life
 http://cdn.vsemtv.top/646/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ретро ТВ.png",Трофей HD
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Трофей",Трофей HD
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9076/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Bollywood HD.png",Bollywood HD r
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bollywood HD",Bollywood HD r
 http://edge05.beetv.kz:80/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Победа_.png",Победа
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Победа_.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Победа",Победа
 http://cdn.vsemtv.top/632/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дикая охота HD.png",Дикая охота HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дикая охота HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дикая Охота HD",Дикая охота HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9081/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/FOX HD.png",Fox HD
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/FOX HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Fox HD",Fox HD
 http://edge05.beetv.kz:80/btv/SWM/FOX/FOX.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ретро ТВ.png",Ретро
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ретро ТВ",Ретро
 http://cdn.vsemtv.top/658/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дикая рыбалка HD.png",Дикая рыбалка HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дикая Рыбалка HD",Дикая рыбалка HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9082/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Родное кино.png",Родное кино
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Родное кино",Родное кино
 http://cdn.vsemtv.top/678/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наука.png",Наука HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наука.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наука 2.0",Наука HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9084/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",РТВ - Любимое кино
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i115.fastpic.org/big/2021/0927/28/48a50bfe54685eb03844c2c759c1b728.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наше любимое кино",РТВ - Любимое кино
 http://cdn.vsemtv.top/619/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat history HD.png",History HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat history HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_History",History HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9023/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png",Мосфильм. Золотая Коллекция
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мосфильм. Золотая коллекция",Мосфильм. Золотая Коллекция
 http://cdn.vsemtv.top/659/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat explore HD.png",Viasat Explore HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat explore HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Explore",Viasat Explore HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9075/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Fox Life.png",Fox Life
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Fox Life.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Fox Life HD",Fox Life
 http://edge05.beetv.kz:80/btv/SWM/FoxLife/FoxLife.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Феникс плюс кино.png",Феникс+ Кино
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Феникс плюс кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Феникс+ Кино",Феникс+ Кино
 http://cdn.vsemtv.top/680/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Матч Премьер HD.png",Матч Арена HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Матч Премьер HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! ТВ",Матч Арена HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9010/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Мир сериала.png",Мир сериала
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Мир сериала.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мир сериала",Мир сериала
 http://cdn.vsemtv.top/627/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский Экстрим.png",Русский экстрим HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский Экстрим.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Russian Extreme",Русский экстрим HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9042/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png",Star Cinema
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Star Cinema (Россия)",Star Cinema
 http://cdn.vsemtv.top/643/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Конный мир HD.png",Конный мир HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Конный мир HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Конный мир",Конный мир HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9055/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Family HD.png",Star Family HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Star Family HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Star Family (Россия)",Star Family HD
 http://cdn.vsemtv.top/673/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Старт.png",СТАРТ HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Старт.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Старт",СТАРТ HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9083/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia 1
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_A1",Amedia 1
 http://edge05.beetv.kz:80/btv/SWM/A1/A1.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Amedia Premium HD.png",Amedia Premium
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Amedia Premium HD",Amedia Premium
 http://cdn.vsemtv.top/624/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Setanta Sports 1.png",Setanta HD KZ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Setanta HD KZ",Setanta HD KZ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9094/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia Hit
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Amedia Hit HD",Amedia Hit
 http://cdn.vsemtv.top/625/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Nickelodeon HD.png",Nickelodeon HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Nickelodeon HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nickelodeon HD",Nickelodeon HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9015/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",А1
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i121.fastpic.org/big/2022/1231/1f/942226598492863dc90030e210b86f1f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_A1",А1
 http://cdn.vsemtv.top/640/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НТВ HD.png",НТВ HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_НТВ",НТВ HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9028/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia 2
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_A2",Amedia 2
 http://edge05.beetv.kz:80/btv/SWM/A2/A2.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/А2.png",А2
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/А2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_A2",А2
 http://cdn.vsemtv.top/641/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Russia Today.png",Russia Today Doc HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Russia Today.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RTД",Russia Today Doc HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9031/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Bollywood HD.png",Bollywood HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bollywood HD",Bollywood HD
 http://cdn.vsemtv.top/644/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Конный мир HD.png",Мир HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Конный мир HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Конный мир",Мир HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9032/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Индийское кино.png",Индийское кино
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Индийское кино",Индийское кино
 http://cdn.vsemtv.top/651/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Телекафе.png",Телеканал 360 HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Телекафе.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_E TV",Телеканал 360 HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9036/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Дорама.png",Дорама
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дорама",Дорама
 http://cdn.vsemtv.top/675/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",TLUM HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9037/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Арсенал.png",Арсенал HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Арсенал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Арсенал HD",Арсенал HD
 http://cdn.vsemtv.top/664/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Уникум.png",Уникум HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Уникум.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Уникум HD",Уникум HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9077/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Хит HD.png",Хит HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Хит HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Хит HD",Хит HD
 http://cdn.vsemtv.top/665/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/СТС Kids.png",СТС Kids HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/СТС Kids.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_СТС Kids HD",СТС Kids HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9063/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia Hit HD
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Amedia Hit HD",Amedia Hit HD
 http://edge05.beetv.kz:80/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Наш кинопоказ.png",Наш кинопоказ HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Наш кинопоказ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наш Кинопоказ",Наш кинопоказ HD
 http://cdn.vsemtv.top/666/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Сочи 24 HD.png",Сочи HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Сочи 24 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_СТРК (Сочи)",Сочи HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9040/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Про любовь.png",Про любовь HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Про Любовь",Про любовь HD
 http://cdn.vsemtv.top/667/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дождь.png",Дождь HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дождь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дождь",Дождь HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9072/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Душевное_.png",Душевное HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Душевное_.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Душевное HD",Душевное HD
 http://cdn.vsemtv.top/697/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",Еспресо ТВ HD UA orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="http://i120.fastpic.org/big/2022/1026/61/c0cbcee2631d4cac7310a9f611b21b61.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Еспресо TV",Еспресо ТВ HD UA orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9073/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Amedia Premium HD.png",Amedia Premium HD
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Amedia Premium HD",Amedia Premium HD
 http://edge05.beetv.kz:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Блокбастер.png",Блокбастер HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Блокбастер.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Блокбастер",Блокбастер HD
 http://cdn.vsemtv.top/668/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Shant Premium HD.png",Shant Kids HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Shant Premium HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Shant Kids HD",Shant Kids HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9093/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Sony Sci-Fi.png",Sci-Fi
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Sony Sci-Fi.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_• sci-fi",Sci-Fi
 http://edge05.beetv.kz:80/btv/SWM/Sci-Fi/Sci-Fi.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Shot TV.png",SHOT TV
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Shot TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Shot TV",SHOT TV
 http://cdn.vsemtv.top/657/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТВЦ.png",ТВЦ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9095/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Trash.png",Trash HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Trash.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Trash HD PREMIUM+",Trash HD
 http://cdn.vsemtv.top/674/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Пятый канал.png",Пятый канал orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Пятый канал",Пятый канал orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9096/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Романтичное.png",Романтичное HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Романтичное.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Романтичное HD",Романтичное HD
 http://cdn.vsemtv.top/1660/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мир Premium HD.png",Мир Premium orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9097/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",Red
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i120.fastpic.org/big/2022/0823/7c/13c534dae00f0e2e96c296331174077c.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_• red",Red
 http://edge05.beetv.kz:80/btv/SWM/Red/Red.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Animal Planet HD.png",Animal Planet HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Animal Planet HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Animal Planet CEE",Animal Planet HD
 http://cdn.vsemtv.top/400/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Телекафе.png",Телеканал Звезда orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Телекафе.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_E TV",Телеканал Звезда orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9098/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Discovery Channel HD.png",Discovery Channel HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Discovery Channel HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Discovery Channel HD",Discovery Channel HD
 http://cdn.vsemtv.top/401/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/СТС Love.png",СТС Love orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_СТС Love",СТС Love orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9099/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/National Geographic HD.png",National Geographic HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/National Geographic HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_National Geographic HD",National Geographic HD
 http://cdn.vsemtv.top/402/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Точка отрыва.png",ОТР orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Точка отрыва.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ОТР",ОТР orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9100/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/FilmBox.png",FilmUADrama
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/FilmBox.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FilmUADrama HD",FilmUADrama
 http://edge05.beetv.kz:80/btv/SWM/FilmUADrama/FilmUADrama.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Nat Geo Wild.png",Nat Geo Wild
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nat Geo Wild HD",Nat Geo Wild
 http://cdn.vsemtv.top/403/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",Че orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="http://i115.fastpic.org/big/2021/0927/cc/0efb93bb92c90cb62c2e29d5c52a30cc.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Че",Че orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9101/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Love nature 4K.png",Love Nature 4K
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Love nature 4K.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Love Nature 4K",Love Nature 4K
 http://cdn.vsemtv.top/446/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/RTVi.png",RTVi orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/RTVi.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RTVI",RTVi orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9102/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Viasat nature HD.png",Viasat Nature/History HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Viasat nature HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Nature/History HD",Viasat Nature/History HD
 http://cdn.vsemtv.top/407/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Супер.png",Супер orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Супер.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Супер Зак",Супер orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9103/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/DTX HD.png",DTX HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/DTX HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_DTX",DTX HD
 http://cdn.vsemtv.top/445/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Домашний-ТВК6.png",Домашний orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Домашний",Домашний orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9104/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Discovery Science HD.png",Discovery Science HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Discovery Science HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Discovery Science HD",Discovery Science HD
 http://cdn.vsemtv.top/444/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ностальгия_.png",Ностальгия orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ностальгия_.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ностальгия",Ностальгия orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9106/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/ID Investigation Discovery HD.png",ID Investigation Discovery HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/ID Investigation Discovery HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ID Investigation Discovery (Европа)",ID Investigation Discovery HD
 http://cdn.vsemtv.top/443/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",Ю ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9107/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/History.png",History
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/History.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_History",History
 http://cdn.vsemtv.top/414/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/КВН ТВ.png",КВН ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/КВН ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_КВН ТВ",КВН ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9108/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/HISTORY2 HD.png",History2
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/HISTORY2 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_H2 HD",History2
 http://cdn.vsemtv.top/415/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Сарафан.png",Сарафан orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Сарафан.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Сарафан",Сарафан orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9109/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Viasat history.png",Viasat History
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Viasat history.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat History",Viasat History
 http://cdn.vsemtv.top/410/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Точка ТВ.png",Точка ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Точка ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Точка ТВ",Точка ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9110/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",1+1
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i121.fastpic.org/big/2022/1231/5d/e1fda2e9ec12bfe652241d085488fa5d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_1+1",1+1
 http://cdn1.vsemtv.top/306/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Спас.png",СПАС orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Спас.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Спас",СПАС orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9111/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",1+1 Україна
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i121.fastpic.org/big/2022/1231/ca/31a147209e8057fdd7373f49143dfdca.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_1+1 Украина",1+1 Україна
 http://cdn.vsemtv.top/340/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Союз.png",Союз orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Союз.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Союз",Союз orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9112/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/2+2.png",2+2 (Украина)
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/2+2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_2+2",2+2 (Украина)
 http://cdn1.vsemtv.top/308/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Здоровое ТВ.png",Здоровое ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Здоровое ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Здоровое ТВ",Здоровое ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9113/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",Интер
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i120.fastpic.org/big/2022/1026/e0/b28d3e466558c42bab55b22515348be0.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Интер",Интер
 http://cdn1.vsemtv.top/305/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Психология.png",Психология 21 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Психология.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Психология 21",Психология 21 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9114/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",СТБ
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i120.fastpic.org/big/2022/1026/db/ed5b82f7ddf8e734df490807ec1555db.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_СТБ",СТБ
 http://cdn1.vsemtv.top/304/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Успех.png",Успех orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Успех.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Успех",Успех orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9115/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",ICTV
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i120.fastpic.org/big/2022/1026/be/097f527f0c7802b173cb076251ec29be.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ICTV",ICTV
 http://cdn1.vsemtv.top/302/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кто есть кто.png",Кто есть кто orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кто есть кто.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кто есть кто",Кто есть кто orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9116/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",ICTV2
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i121.fastpic.org/big/2022/1231/74/c21d1f2d05f6384ae995c94bac422674.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ICTV 2 HD",ICTV2
 http://cdn.vsemtv.top/339/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Открытый мир.png",Открытый мир orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Открытый мир.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Открытый мир",Открытый мир orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9117/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Москва 24.png",Квартал ТВ
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Квартал ТВ",Квартал ТВ
 http://cdn1.vsemtv.top/313/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",РЖД ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="http://i115.fastpic.org/big/2021/0927/96/a6c63fe33bb71ded3f8e80f43e775796.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РЖД ТВ",РЖД ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9118/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",FREEДОМ HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i120.fastpic.org/big/2022/1029/7d/44b4e41bbb42e0bb589dcd13ccc8707d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FreeДОМ",FREEДОМ HD
 http://cdn.vsemtv.top/301/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Красная линия.png",Красная линия orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Красная линия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Красная линия",Красная линия orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9119/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",Прямий
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i120.fastpic.org/big/2022/1026/f9/5534fd8e5d66529d1d330c1edb0c45f9.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Прямий",Прямий
 http://cdn.vsemtv.top/344/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ЛДПР ТВ_.png",ЛДПР ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ЛДПР ТВ_.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ЛДПР ТВ",ЛДПР ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9120/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Сочи 24 HD.png",24 Канал
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Сочи 24 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_24 канал",24 Канал
 http://cdn.vsemtv.top/338/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",Хузур ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="http://i115.fastpic.org/big/2021/0927/dc/004910f35062e71310a6509143eb2bdc.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Хузур ТВ (Татарстан)",Хузур ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9121/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Пятница HD.png",Пятница HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Пятница HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Пятница!",Пятница HD
 http://cdn.vsemtv.top/112/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дождь.png",Дождь orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дождь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дождь",Дождь orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9122/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Первый канал HD.png",Первый канал HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый канал",Первый канал HD
 http://cdn.vsemtv.top/101/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТБН.png",ТБН orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТБН.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТБН",ТБН orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9123/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия 1 HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Россия 1",Россия 1 HD
 http://cdn.vsemtv.top/102/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Вместе-РФ.png",Вместе-РФ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Вместе-РФ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Вместе-РФ",Вместе-РФ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9124/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/CNN International.png",Terra
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/CNN International.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Terra",Terra
 http://edge05.beetv.kz:80/btv/SWM/terra_hd/terra_hd.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/НТВ HD.png",НТВ HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_НТВ",НТВ HD
 http://cdn.vsemtv.top/103/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Sony Sci-Fi.png",Sony Sci-Fi orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Sony Sci-Fi.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_• sci-fi",Sony Sci-Fi orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9125/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/ТНТ HD.png",ТНТ HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТНТ",ТНТ HD
 http://cdn.vsemtv.top/104/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киномикс.png",КИНОМИКС orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киномикс",КИНОМИКС orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9126/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/РЕН ТВ HD.png",РЕН ТВ HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РЕН ТВ",РЕН ТВ HD
 http://cdn.vsemtv.top/106/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Родное кино.png",РОДНОЕ КИНО orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Родное кино",РОДНОЕ КИНО orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9127/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/СТС HD.png",СТС HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_СТС",СТС HD
 http://cdn.vsemtv.top/107/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кинохит.png",Кинохит orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинохит",Кинохит orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9128/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Звезда.png",Звезда HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Звезда",Звезда HD
 http://cdn.vsemtv.top/0108/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia 2 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_A2",Amedia 2 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9129/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Конный мир HD.png",Мир HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Конный мир HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мир HD",Мир HD
 http://cdn.vsemtv.top/122/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/TV XXI.png",TV XXI orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/TV XXI.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV XXI",TV XXI orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9130/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",Dorcel HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i115.fastpic.org/big/2021/0923/06/73fc46a0884cf48bac82a2ba555c5506.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dorcel TV HD",Dorcel HD
 http://cdn.vsemtv.top/701/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Индийское кино.png",ИНДИЙСКОЕ КИНО orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Индийское кино",ИНДИЙСКОЕ КИНО orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9131/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",Redlight HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i115.fastpic.org/big/2021/0925/61/eb29eb53f6bf0ff336e1667efb589561.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Redlight HD",Redlight HD
 http://cdn.vsemtv.top/702/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киносерия.png",КИНОСЕРИЯ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киносерия",КИНОСЕРИЯ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9132/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Blue Hustler.png",Hustler TV Europe HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Blue Hustler.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Hustler TV",Hustler TV Europe HD
 http://cdn.vsemtv.top/714/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский иллюзион.png",Русский Иллюзион orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский иллюзион.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русский Иллюзион",Русский Иллюзион orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9133/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",Vivid Red HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i120.fastpic.org/big/2022/1030/e2/e51e48f0bca5b13e1e870f0a255228e2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Vivid Red HD",Vivid Red HD
 http://cdn.vsemtv.top/709/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Еврокино.png",Еврокино orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Еврокино",Еврокино orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9134/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",Private HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i115.fastpic.org/big/2021/0925/c7/8f6c8ac81ecb31ffb55af15acef9bac7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Private TV",Private HD
 http://cdn.vsemtv.top/704/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Fox Life HD.png",Fox Russia orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Fox Life HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Fox HD",Fox Russia orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9135/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Barely legal.png",Barely legal
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Barely legal.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Barely Legal TV",Barely legal
 http://cdn.vsemtv.top/711/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дом кино премиум HD.png",Дом Кино orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дом кино",Дом Кино orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9136/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Blue Hustler.png",Blue Hustler
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Blue Hustler.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Blue Hustler",Blue Hustler
 http://cdn.vsemtv.top/703/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Hit.png",Amedia 1 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_A1",Amedia 1 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9137/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",XXL
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i115.fastpic.org/big/2021/0926/1b/611e862e3505986889a653c85d9d2a1b.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_XXL",XXL
 http://cdn.vsemtv.top/710/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мужское кино.png",МУЖСКОЕ КИНО orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мужское кино",МУЖСКОЕ КИНО orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9138/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://5.9.87.78:8505/pics/CineManExExEx.png",CineMan ExExEx
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://5.9.87.78:8505/pics/CineManExExEx.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan ExExEx",CineMan ExExEx
 http://cdn.vsemtv.top/706/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/2x2.png",2x2 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/2x2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_2x2",2x2 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9139/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://5.9.87.78:8505/pics/CineManExExEx2.png",CineMan ExExEx TWO
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://5.9.87.78:8505/pics/CineManExExEx2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CineMan ExExEx TWO",CineMan ExExEx TWO
 http://cdn.vsemtv.top/716/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Sony Turbo.png",Sony Turbo orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Sony Turbo.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_• black",Sony Turbo orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9140/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Brazzers TV Europe.png",Brazzers TV Europe
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="../Channel/Logo/Brazzers TV Europe.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Brazzers TV Europe",Brazzers TV Europe
 http://cdn.vsemtv.top/705/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский бестселлер.png",Русский бестселлер orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский бестселлер.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русский бестселлер",Русский бестселлер orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9141/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",Penthouse Quickies HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i115.fastpic.org/big/2021/0925/bc/8923087be756032d76a16673bb0138bc.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Penthouse Quickies HD",Penthouse Quickies HD
 http://cdn.vsemtv.top/713/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский детектив.png",Русский детектив orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский детектив.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русский Детектив",Русский детектив orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9142/index.m3u8
-#EXTINF:-1 group-title="vsemtv.top",Penthouse Gold HD
+#EXTINF:-1 group-title="vsemtv.top" tvg-logo="http://i115.fastpic.org/big/2021/0925/bc/8923087be756032d76a16673bb0138bc.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Penthouse Gold HD",Penthouse Gold HD
 http://cdn.vsemtv.top/707/index.m3u8?token=c2tyfHxVMnR5T1RZMU9UYzBNQT09
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше любимое кино.png",Любимое Кино orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наше любимое кино",Любимое Кино orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9143/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русская ночь.png",Русская Комедия orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русская ночь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Комедия",Русская Комедия orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9144/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/FAN (Fantastic animation).png",FAN orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/FAN (Fantastic animation).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FAN HD",FAN orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9145/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НТВ-Хит.png",НТВ-ХИТ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9146/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НТВ Сериал.png",НТВ Сериал orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НТВ Сериал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_НТВ Сериал",НТВ Сериал orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9147/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НСТ.png",НСТ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Настоящее страшное ТВ",НСТ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9148/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Zee TV.png",ZEE TV orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Zee TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Zee TV",ZEE TV orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9149/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/FilmBox Arthouse.png",Filmbox Arthouse orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/FilmBox Arthouse.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FilmBox Arthouse",Filmbox Arthouse orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9150/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мир сериала.png",Мир Сериала orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мир сериала.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мир сериала",Мир Сериала orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9151/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ретро ТВ.png",Ретро orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ретро ТВ",Ретро orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9152/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Феникс плюс кино.png",Феникс плюс Кино orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Феникс плюс кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Феникс+ Кино",Феникс плюс Кино orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9153/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киносвидание.png",Киносат orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_КиноСат",Киносат orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9154/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Paramount comedy HD.png",Paramount Comedy Russia orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Paramount comedy HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Comedy Central",Paramount Comedy Russia orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9155/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png",Мосфильм. Золотая коллекция orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мосфильм. Золотая коллекция",Мосфильм. Золотая коллекция orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9156/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Матч! Страна.png",МАТЧ! СТРАНА orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Страна",МАТЧ! СТРАНА orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9157/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Матч! Боец.png",Матч! Боец orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Боец",Матч! Боец orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9159/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Extreme sports.png",Extreme Sports orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Extreme sports.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Extreme Sports",Extreme Sports orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9160/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/M-1 Global.png",M-1 Global TV orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/M-1 Global.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_M-1 Global",M-1 Global TV orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9161/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Бокс ТВ.png",Бокс ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Бокс ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Бокс ТВ",Бокс ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9162/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Драйв.png",Драйв orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Драйв.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Драйв",Драйв orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9163/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Живи.png",ЖИВИ! orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Живи.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Живи!",ЖИВИ! orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9164/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Жар птица.png",Жар Птица orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Жар птица.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Жар птица HD",Жар Птица orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9165/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Музыка первого.png",Музыка orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мультимузыка",Музыка orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9166/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/VH1 European.png",VH1 European orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/VH1 European.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MTV 00s",VH1 European orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9167/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Russian Extreme Ultra.png",Russian Music Box orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Russian Extreme Ultra.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Music Box RU",Russian Music Box orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9168/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Муз-ТВ.png",МУЗ-ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Муз-ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Муз ТВ",МУЗ-ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9169/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Mezzo live HD.png",Mezzo orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Mezzo live HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Mezzo",Mezzo orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9170/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мультимузыка.png",МузСоюз orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мультимузыка.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_МузСоюз",МузСоюз orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9171/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/MTV Hits_.png",MTV Hits orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/MTV Hits_.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MTV Hits",MTV Hits orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9172/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Шансон ТВ_.png",Шансон ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Шансон ТВ_.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Шансон ТВ",Шансон ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9173/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ля-минор.png",Ля-минор ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ля-минор.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ля минор",Ля-минор ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9174/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/MCM Top.png",MCM Top Russia orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/MCM Top.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MCM TOP",MCM Top Russia orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9175/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/BRIDGE TV РУССКИЙ ХИТ.png",BRIDGE TV Русский Хит orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/BRIDGE TV РУССКИЙ ХИТ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bridge TV Русский Хит",BRIDGE TV Русский Хит orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9176/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Жара FM.png",ЖАРА orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Жара FM.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Жара HD",ЖАРА orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9177/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТНТ Music.png",ТНТ MUSIC orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТНТ MUSIC",ТНТ MUSIC orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9178/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/RU.TV HD.png",RU.TV orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/RU.TV HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RU TV",RU.TV orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9179/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Tiji.png",Tiji Tv orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Tiji.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TiJi",Tiji Tv orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9180/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Gulli Girl.png",Gulli orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Gulli Girl.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Gulli Girl",Gulli orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9181/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Nick jr.png",Nick Jr orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Nick jr.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nick Jr.",Nick Jr orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9182/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Disney Channel.png",Disney orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Disney Channel.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Солнце",Disney orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9183/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Детский мир.png",Детский мир orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Детский мир.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Детский мир",Детский мир orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9184/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Jim Jam.png",Jim jam orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9185/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Карусель.png",Карусель orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Карусель",Карусель orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9186/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ani.png",Ani orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ani.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ani",Ani orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9187/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мульт HD.png",Мульт orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мульт HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мульт HD",Мульт orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9188/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Boomerang HD.png",Boomerang orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Boomerang HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Boomerang",Boomerang orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9189/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",О! orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="http://i115.fastpic.org/big/2021/0927/f9/0d187522a2d240669b87bf6f78f567f9.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_О!",О! orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9190/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Уникум.png",Уникум orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Уникум.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Уникум HD",Уникум orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9191/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Baby TV.png",Baby tv orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Baby TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Baby TV",Baby tv orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9192/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Малыш ТВ.png",Малыш orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Малыш ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Малыш ТВ",Малыш orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9193/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Радость Моя.png",Радость моя orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Радость Моя.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Радость Моя",Радость моя orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9194/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Рыжий.png",Рыжий orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Рыжий.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Рыжий",Рыжий orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9195/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Капитан Фантастика.png",Капитан фантастика orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Капитан Фантастика.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Капитан Фантастика HD",Капитан фантастика orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9196/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",UTv orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9197/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Первый канал HD2.png",Первый канал orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый канал",Первый канал orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9201/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Тамыр.png",Тамыр orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Тамыр.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Тамыр (Уфа)",Тамыр orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9198/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия 1 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Россия 1",Россия 1 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9202/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НТВ Право.png",НТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НТВ Право.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_НТВ",НТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9203/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Смайлик.png",Смайлик ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Смайлик.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Смайлик ТВ",Смайлик ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9199/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мультиландия.png",Мультиландия orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мультиландия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мультиландия",Мультиландия orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9200/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТНТ Music.png",ТНТ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТНТ",ТНТ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9204/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/РЕН ТВ HD.png",РЕН ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РЕН ТВ",РЕН ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9205/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",ТВ3 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9206/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Пятница! HD.png",Пятница! orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Пятница!",Пятница! orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9207/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТНТ4.png",ТНТ4 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТНТ4",ТНТ4 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9208/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/360° HD.png",360° orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/360° HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_360° Новости",360° orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9209/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Три ангела.png",Три ангела orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Три ангела.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Три Ангела",Три ангела orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9210/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мир 24.png",Мир orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мир HD",Мир orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9211/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Загородный.png",Загородный orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Загородный.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Загородный",Загородный orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9212/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/РБК.png",РБК-ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9213/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мир 24.png",Мир 24 HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мир 24",Мир 24 HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9214/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Euronews.png",Euronews Россия orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Euronews.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Евроновости",Euronews Россия orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9215/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Известия.png",Известия orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Известия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Известия",Известия orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9216/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/CGTN Русский.png",CGTN orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CGTN",CGTN orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9217/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Москва 24.png",Москва 24 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Москва 24",Москва 24 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9218/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мир 24.png",Мир 24 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мир 24",Мир 24 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9219/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Eurosport 1.png",RT Doc orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Russia Today",RT Doc orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9220/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/NHK WORLD-JAPAN.png",NHK World TV orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/NHK WORLD-JAPAN.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_NHK World Japan",NHK World TV orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9221/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Центральное телевидение.png",Центральное телевидение orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Центральное телевидение.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Центральное телевидение",Центральное телевидение orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9222/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/CGTN Русский.png",CGTN Русский orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CGTN Русский",CGTN Русский orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9223/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дорама.png",Дорама HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дорама",Дорама HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9224/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Bollywood HD.png",Bollywood HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bollywood HD",Bollywood HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9225/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Победа HD.png",Победа orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Победа HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Победа",Победа orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9226/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/BRIDGE TV РУССКИЙ ХИТ.png",TV 1000 Русское кино orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/BRIDGE TV РУССКИЙ ХИТ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000 Русское кино",TV 1000 Русское кино orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9227/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киносемья.png",КИНОСЕМЬЯ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киносемья",КИНОСЕМЬЯ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9228/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Brazzers TV Europe.png",TV 1000 Action orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Brazzers TV Europe.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000 Action",TV 1000 Action orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9229/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше новое кино.png",Наше новое кино orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наше Новое Кино",Наше новое кино orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9230/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кинокомедия.png",КИНОКОМЕДИЯ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинокомедия",КИНОКОМЕДИЯ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9231/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Fox Life HD.png",Fox Life orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Fox Life HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Fox Life HD",Fox Life orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9232/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Premium HD.png",Amedia Premium HD (SD) orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Amedia Premium HD",Amedia Premium HD (SD) orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9233/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Hit.png",AMEDIA HIT orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Amedia Hit HD",AMEDIA HIT orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9234/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/My Zen TV HD.png",TV 1000 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/My Zen TV HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000",TV 1000 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9235/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Hollywood HD.png",Hollywood orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Hollywood HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Hollywood",Hollywood orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9236/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Sony Channel.png",Sony Entertainment Television orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Sony Channel.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_• red",Sony Entertainment Television orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9237/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киносвидание.png",КИНОСВИДАНИЕ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киносвидание",КИНОСВИДАНИЕ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9238/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дорама.png",Дорама orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дорама",Дорама orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9239/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский роман.png",Русский роман orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русский роман",Русский роман orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9240/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Иллюзион+.png",Иллюзион+ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Иллюзион+",Иллюзион+ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9241/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Paramount Channel HD.png",Paramount Channel orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Paramount Channel HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Paramount Channel HD",Paramount Channel orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9242/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кино ТВ HD.png",Кино ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кино ТВ",Кино ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9244/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Матч Премьер HD.png",МАТЧ ПРЕМЬЕР orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Матч Премьер HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Премьер HD",МАТЧ ПРЕМЬЕР orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9246/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Eurosport 1 HD.png",Eurosport 1 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Eurosport 1 CEE HD",Eurosport 1 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9247/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Моторспорт ТВ.png",Моторспорт ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Моторспорт ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Моторспорт ТВ",Моторспорт ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9248/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat Sport HD_.png",Viasat Sport orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat Sport HD_.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Sport",Viasat Sport orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9249/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/КХЛ HD.png",КХЛ ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/КХЛ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KHL",КХЛ ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9250/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Футбол HD.png",Футбол orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Футбол HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Футбол",Футбол orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9251/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Курай-ТВ.png",Курай TV orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Курай-ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Курай (Уфа)",Курай TV orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9252/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Bridge TV Hits.png",Bridge TV orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bridge TV",Bridge TV orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9253/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/О2ТВ.png",о2тв HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/О2ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_О2ТВ",о2тв HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9254/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Курай-ТВ.png",Курай HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Курай-ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Курай (Уфа)",Курай HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9255/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/О2ТВ.png",о2тв orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/О2ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_О2ТВ",о2тв orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9256/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Европа Плюс ТВ.png",Европа Плюс ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Европа Плюс ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CNL Украина",Европа Плюс ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9257/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/MTV Russia.png",MTV Russia orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/MTV Russia.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MTV European",MTV Russia orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9258/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png",Bridge TV Classic orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bridge TV Classic",Bridge TV Classic orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9259/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Nickelodeon HD.png",Nickelodeon orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Nickelodeon HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nickelodeon",Nickelodeon orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9260/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Cartoon Network HD.png",Cartoon Network orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Cartoon Network HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cartoon Network",Cartoon Network orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9261/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мультимузыка.png",Мультимузыка orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мультимузыка.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мультимузыка",Мультимузыка orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9262/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/В гостях у сказки.png",В гостях у сказки orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/В гостях у сказки.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_В гостях у сказки",В гостях у сказки orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9263/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Nat Geo Wild HD.png",Nat Geo Wild orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Nat Geo Wild HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nat Geo Wild HD",Nat Geo Wild orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9264/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Discovery Science HD.png",Discovery Science orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Discovery Science HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Discovery Science HD",Discovery Science orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9265/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Animal Planet HD.png",Animal Planet orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Animal Planet HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Animal Planet CEE",Animal Planet orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9266/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Большая Азия.png",Большая Азия HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Большая Азия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Большая Азия",Большая Азия HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9267/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Загородный.png",Загородный int HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Загородный.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Загородный int HD",Загородный int HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9268/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Авто Плюс.png",Авто Плюс orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Авто Плюс.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Авто Плюс",Авто Плюс orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9269/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кухня ТВ.png",Кухня ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Кухня ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кухня ТВ",Кухня ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9270/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Нано.png",Нано ТВ HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Нано.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nano HD",Нано ТВ HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9271/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Точка отрыва.png",Точка отрыва orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Точка отрыва.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Точка отрыва",Точка отрыва orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9272/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Надежда.png",Надежда orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Надежда.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Надежда",Надежда orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9273/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat explore HD.png",Viasat Explore orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat explore HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Explore",Viasat Explore orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9275/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Зоо ТВ.png",Зоопарк orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Зоо ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Zooпарк",Зоопарк orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9276/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Морской HD.png",Морской orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Морской HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Черноморская ТРК",Морской orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9277/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Телекафе.png",Телекафе orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Телекафе.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Телекафе",Телекафе orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9278/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Усадьба.png",Усадьба orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Усадьба.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Усадьба",Усадьба orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9279/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/RTG TV.png",RTG TV orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/RTG TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RTG",RTG TV orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9280/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Первый музыкальный HD.png",Первый Метео orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Первый музыкальный HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый метео",Первый Метео orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9281/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дикий.png",Дикий orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дикий.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дикий",Дикий orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9282/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Spike HD.png",Spike Russia orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9283/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Охота и Рыбалка.png",Охота и рыбалка orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Охота и рыбалка",Охота и рыбалка orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9284/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ЕГЭ ТВ.png",ЕГЭ ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ЕГЭ ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ЕГЭ ТВ",ЕГЭ ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9285/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наша тема.png",Наша тема orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наша тема.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наша тема",Наша тема orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9286/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/World Fashion Channel HD.png",World Fashion Channel orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/World Fashion Channel HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_World Fashion Channel HD",World Fashion Channel orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9287/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мама.png",Мама orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мама.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мама",Мама orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9288/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",CBS Reality orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="http://i120.fastpic.org/big/2022/0919/06/2c9c4fd0c54e7088f740675f258bd006.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CBS Reality",CBS Reality orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9289/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",Связист ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9291/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Т24.png",Т24 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9292/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Тномер.png",ТНОМЕР orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Тномер.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Тномер",ТНОМЕР orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9293/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Доктор.png",Доктор orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Доктор.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Доктор",Доктор orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9294/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat nature HD.png",Viasat Nature orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Viasat nature HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Nature",Viasat Nature orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9295/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Домашний-ТВК6.png",Домашние животные orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Домашние животные",Домашние животные orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9296/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",Вопросы и ответы orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="http://i115.fastpic.org/big/2021/0926/43/4d6c01668771c4df75fb44b7569f7b43.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Вопросы и ответы",Вопросы и ответы orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9297/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Липецкое Время.png",Время orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Липецкое Время.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Время",Время orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9298/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/English club HD.png",English Club orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/English club HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_English Club TV",English Club orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9299/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Моя планета.png",Моя планета orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Моя Планета",Моя планета orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9300/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Travel+ adventure HD.png",Travel+Adventure orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Travel+ adventure HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Travel+ Adventure HD",Travel+Adventure orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9301/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net",ТДК orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9302/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/365 Дней.png",365 дней orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/365 Дней.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_365 дней",365 дней orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9303/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Просвещение.png",Просвещение orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Просвещение.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Просвещение",Просвещение orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9304/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Совершенно секретно.png",Совершенно секретно orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Совершенно секретно.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Совершенно секретно",Совершенно секретно orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9305/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мужской.png",Мужской orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Мужской.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мужской",Мужской orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9306/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Телепутешествия.png",Телепутешествия orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Телепутешествия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Телепутешествия",Телепутешествия orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9307/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Здоровье.png",Здоровье orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Здоровье.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Здоровое ТВ",Здоровье orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9308/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Авто 24.png",Авто 24 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Авто 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Авто24 HD",Авто 24 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9309/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Outdoor channel.png",Outdoor Channel orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9310/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Первый Образовательный.png",Первый образовательный orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Первый Образовательный.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый областной (Орел)",Первый образовательный orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9311/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ocean TV.png",Ocean TV orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Ocean TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ocean TV",Ocean TV orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9312/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/History 2 HD .png",History orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/History 2 HD .png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_History",History orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9313/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Travel channel HD.png",Travel Channel orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Travel channel HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Travel Channel CEE HD",Travel Channel orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9314/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/История.png",История orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/История.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_История",История orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9315/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Тайна.png",Тайна orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Тайна.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Тайна",Тайна orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9316/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Galaxy.png",Galaxy orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Galaxy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Тайны Галактики",Galaxy orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9317/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Поехали!.png",Поехали orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Поехали!.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Поехали!",Поехали orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9318/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Загородная жизнь.png",Загородная жизнь orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Загородная жизнь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Загородная жизнь HD",Загородная жизнь orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9319/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Первый вегетарианский HD.png",Первый вегетарианский orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Первый вегетарианский HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый вегетарианский",Первый вегетарианский orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9320/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Нано.png",Нано ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Нано.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nano TV",Нано ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9321/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ID Investigation Discovery HD.png",Investigation Discovery orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ID Investigation Discovery HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ID Investigation Discovery (Европа)",Investigation Discovery orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9322/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Оружие.png",Оружие orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Оружие.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Оружие",Оружие orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9323/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Зоо ТВ.png",Зоо ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Зоо ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Зоо ТВ",Зоо ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9324/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Живая планета.png",Живая планета orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Живая планета.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Живая планета",Живая планета orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9325/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Discovery Science HD.png",Discovery Science HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Discovery Science HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Discovery Science HD",Discovery Science HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9326/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НТВ Право.png",НТВ Право orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НТВ Право.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_НТВ Право",НТВ Право orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9327/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НТВ Стиль.png",НТВ Стиль orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/НТВ Стиль.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_НТВ Стиль",НТВ Стиль orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9328/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/#Кто куда.png",Кто Куда orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9329/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наша сибирь.png",Наша сибирь HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наша Сибирь",Наша сибирь HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9330/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Продвижение.png",Продвижение orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Продвижение.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Продвижение",Продвижение orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9331/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/ACB TV.png",ACB TV orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9332/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Global Star tv.png",Globalstar TV orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Global Star tv.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Globalstar TV",Globalstar TV orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9334/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Fashion tv.png",Fashion TV orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Fashion tv.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Fashion TV HD",Fashion TV orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9335/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Арсенал.png",Арсенал orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Арсенал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Арсенал HD",Арсенал orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9336/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Театр.png",Театр orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Театр.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Театр",Театр orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9337/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Крым 24.png",КРЫМ 24 orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Крым 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Крым 24 (Симферополь)",КРЫМ 24 orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9338/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Эхо тв.png",Эхо ТВ orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Эхо тв.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Эхо TV",Эхо ТВ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9339/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/9 Волна.png",Волга orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/9 Волна.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Волга (Н. Новгород)",Волга orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9340/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/БСТ.png",БСТ HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9341/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Москва. Доверие.png",Москва-доверие orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Москва. Доверие.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Москва. Доверие",Москва-доверие orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9342/index.m3u8
 #EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/БСТ.png",БСТ orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/9343/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше Крутое.png",Наше Крутое HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Наше Крутое.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наше HD",Наше Крутое HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/10041/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Душевное_.png",Душевное кино HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Душевное_.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Душевное HD",Душевное кино HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/10042/index.m3u8
-#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дом кино премиум HD.png",Премиальное HD orig
+#EXTINF:-1 group-title="b8cc1e73.rossteleccom.net" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Премиальное HD",Премиальное HD orig
 http://b8cc1e73.rossteleccom.net/iptv/V3ZW6YFA5SS4PZ/10044/index.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Investigation Discovery HD.png",Discovery HD
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/Investigation Discovery HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Discovery Channel HD",Discovery HD
 http://edge05.beetv.kz:80/btv/SWM/discovery_hd/discovery_hd.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/History HD.png",History HD
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/History HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_History",History HD
 http://edge05.beetv.kz:80/btv/SWM/HistoryHD/HistoryHD.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/H2.png",H2
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="../Channel/Logo/H2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_H2 HD",H2
 http://edge05.beetv.kz:80/btv/SWM/History2HD/History2HD.m3u8
-#EXTINF:-1 group-title="edge05.beetv.kz",Viju History
+#EXTINF:-1 group-title="edge05.beetv.kz" tvg-logo="http://i121.fastpic.org/big/2023/0303/8b/ac5186ddb9de8971805ece431a80ba8b.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat History",Viju History
 http://edge05.beetv.kz:80/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
