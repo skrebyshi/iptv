@@ -1,4 +1,6 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Остросюжетное HD",Остросюжетное HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/904/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Футбол 2 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Футбол 2",Матч! Футбол 2 HD 50
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10027/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="http://i120.fastpic.org/big/2022/1125/de/5c25138a68abf6e167d34797d2a14fde.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Humor",KLI Humor HD
@@ -7,10 +9,10 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20052/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18163/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0716/b3/90e3e98639b3151270a8013711ff60b3.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY НАУКА 4K",Liberty Наука FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19305/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0815/26/7bf1d0ac6a46238eb3fe1d7076644926.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY ЛЕГЕНДА 4K",Liberty Легенда 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19308/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/1125/fe/8d94f44e007ccda80642ccdec54e38fe.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Kids",KLI Kids FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20047/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0303/f4/a06e6706dfa9fcae61718f6dc77db2f4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000",Viju TV1000 HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6387/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТНТ",ТНТ HD 50
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10024/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://i120.fastpic.org/big/2022/1129/00/eb4058097f3adedb93a82be8af1ec200.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KHL Prime HD",KHL Prime 50
@@ -21,10 +23,10 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19282/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19283/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/0716/7d/01880cf27472bd64a3dd68d82858f97d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY МиМ FHD",Liberty МиМ FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19306/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0815/aa/c73da43eee483dfa2afb88e4f43765aa.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY NETFLIX 4K",Liberty Netflix 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19402/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТНТ4",ТНТ4 HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6370/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0303/de/49c8e238eac49e7ad211cba29484d1de.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000 Русское кино",Viju TV1000 Русское HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6388/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! ТВ",Матч ТВ HD 50
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10020/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/RU TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RU TV",RU TV HD
@@ -33,10 +35,10 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19247/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20210/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Глазами туриста.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Глазами туриста 4K",Глазами Туриста 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15191/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0815/09/b3334374fc17bf057a60de9631c90009.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY 44 FAN FHD",Liberty Фан FHD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19403/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Пятница!",Пятница! HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5031/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0303/85/a27ca308c789c037cd77615e4fb40285.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000 Action",Viju TV1000 Action HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6386/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Премьер HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Премьер HD",Матч! Премьер HD 50
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10021/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Первый музыкальный HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый музыкальный",Первый музыкальный HD BY
@@ -45,22 +47,22 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14144/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20140/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/NASA TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nasa UHD",NASA TV 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15239/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1125/20/ac588e7df3e7d49e661ef8847bef2c20.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Horror",KLI Horror FHD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20050/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мир 24",Мир 24 HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2107/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Игра HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Игра",Матч! Игра HD 50
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10014/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/vip premiere.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Premiere HD",Premiere HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11094/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Первый музыкальный HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый музыкальный",Первый музыкальный HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14142/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/1125/05/a8c495f6cfb98a036f7180d6f595dc05.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Мутльтики",KLI Мультики FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20048/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/HGTV Home & Garden.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Home 4K",Home 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/4002/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/FilmBox Arthouse.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BOX Premiere 4K",BOX Premiere 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20157/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/360° HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_360TV",360 HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2065/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0303/ac/062e5e2b0475d9c980ec8baceae14cac.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VIP Serial HD",Viju+ Serial HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2443/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Футбол 1",Матч! Футбол 1 HD 50
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10015/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i117.fastpic.org/big/2022/0515/79/9320b650c2f0af64e58a7d0b2a880a79.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Kids HD",BCU Kids HD
@@ -69,10 +71,10 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11035/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11105/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наша Сибирь 4K",Наша Сибирь 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/4003/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Music Box Russia.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BOX Remast 4K",BOX Remast 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20158/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РЕН ТВ",Рен ТВ HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2024/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Блокбастер.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Блокбастер",Блокбастер HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2436/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Футбол 3 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Футбол 3",Матч! Футбол 3 HD 50
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10016/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i115.fastpic.org/big/2021/0924/0d/694a7fbcc8c0e95f020b81749c45770d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Kronehit HD",Krone hit HD
@@ -81,8 +83,6 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10065/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11025/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0920/17/6e10ad4070aa540264e430b9a7492217.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Insight UHD",Insight UHD 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5000/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0716/8d/279b17224dc96700ea796a555117a78d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY ТУРК ФИЛЬМ 4К",Liberty Турк Фильм 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19303/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Футбол 2 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Футбол 2",Матч! Футбол 2 HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/211/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый Космический HD",Первый космический HD
@@ -91,10 +91,10 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/908/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10046/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i115.fastpic.org/big/2021/0926/ee/5599856d39c337fe5069023f4b8a76ee.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viva Russia",Viva HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10063/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Мир Premium HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Premium HD",Premium HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11095/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Love nature 4K.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Love Nature 4K",Love Nature 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5001/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2022/0228/b0/06eca204a6ea78d0fa9d15a733e014b0.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_SKY HIGH Mix 4K",SKY HIGH MIX 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17025/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! ТВ",Матч ТВ HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/212/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТНТ",ТНТ HD
@@ -105,8 +105,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2001/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2141/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i115.fastpic.org/big/2021/0924/aa/5256953ff73dba419b768d02af47f6aa.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_myZen TV 4K",MyZen TV 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5002/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/17/0268aec3f7f1d452907e133e8487a817.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Kids 4K",BCU Kids 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17023/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0815/26/7bf1d0ac6a46238eb3fe1d7076644926.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY ЛЕГЕНДА 4K",Liberty Легенда 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19308/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Россия 1",Россия 1 HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/205/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://i120.fastpic.org/big/2022/1129/1b/8d0f7379add88990802de6084a9e971b.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KHL",KHL HD
@@ -117,8 +117,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6303/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2129/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Russian Extreme Ultra.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ultra Rex UHD",Russian Extreme UHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5003/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0731/89/d7bebba0923cb879bb6838a636b65789.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_YOSSO 4K",Yosso TV 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16153/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0815/aa/c73da43eee483dfa2afb88e4f43765aa.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY NETFLIX 4K",Liberty Netflix 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19402/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Россия 1",Россия 1 HD 50
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15133/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Премьер HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Премьер HD",Матч! Премьер HD
@@ -129,8 +129,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/223/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/236/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/1203/5d/531dfc251d3e2a8bf164f6e07ebcdd5d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_QUADRO 4K",Quadro 4К
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19262/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Кино UHD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кино UHD",Кино UHD 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5004/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0815/09/b3334374fc17bf057a60de9631c90009.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY 44 FAN FHD",Liberty Фан FHD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19403/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i121.fastpic.org/big/2022/1220/bf/a9c56e61e0ac8273f456ef61b9354ebf.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Disney Cartoon",VF Disney Cartoon
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15027/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый канал (+4)",Первый канал HD +4
@@ -141,8 +141,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/221/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/222/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Museum.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Museum 4k",Museum 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14016/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Сериал UHD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Сериал UHD",Сериал UHD 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5005/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1125/20/ac588e7df3e7d49e661ef8847bef2c20.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Horror",KLI Horror FHD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20050/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i121.fastpic.org/big/2022/1220/d7/9544dad82b8256651e78c431ec7fe0d7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Britney Spears",VF Britney Spears
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14005/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i121.fastpic.org/big/2022/1220/8e/e7d25d3ee829b81fdd199f6ea7129e8e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Союзмультфильм",VF Союзмультфильм
@@ -153,8 +153,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/204/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/225/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Travel channel.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Travelxp 4k",TravelXP 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14026/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0718/fb/fe9b0636ae5d1d9b8f51304ee86569fb.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Кино 4K",VF Кино 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11114/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/FilmBox Arthouse.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BOX Premiere 4K",BOX Premiere 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20157/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Aiva.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_AIVA",AIVA TV HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2156/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i121.fastpic.org/big/2022/1220/c7/088571165548171116630d540614b6c7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Ералаш",VF Ералаш
@@ -165,8 +165,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/13000/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/226/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Music Box Gold.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BOX Mayday HD",BOX Mayday HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20159/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0718/2f/fc8926cf95fae1be6978ce633091912f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Сериал 4K",VF Сериал 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11115/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Music Box Russia.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BOX Remast 4K",BOX Remast 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20158/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1101/73/8cc2019de811ff17bbeb225fc3c70b73.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Z!Music HD",Z! Musiс HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14138/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/0531/b6/57f60ba689e4aa303accbeb8d5c105b6.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТипТоп",ТипТоп HD
@@ -177,8 +177,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14170/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/228/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Music Box Gold.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BOX Stories HD",BOX Stories HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20155/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/0a/c7667e81725bab69d949c2be5cb9500a.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere Ultra 4K",BCU Premiere Ultra 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15023/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0716/8d/279b17224dc96700ea796a555117a78d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY ТУРК ФИЛЬМ 4К",Liberty Турк Фильм 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19303/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/RU TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RU TV",RU TV FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14164/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Мульт HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мульт HD",Мульт HD
@@ -189,8 +189,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14159/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/996/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Music Box Gold.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BOX Docu. HD",BOX Docu HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20153/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ultra HD Cinema",Ultra HD Cinema 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/4000/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2022/0228/b0/06eca204a6ea78d0fa9d15a733e014b0.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_SKY HIGH Mix 4K",SKY HIGH MIX 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17025/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТНТ MUSIC",ТНТ Music FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14166/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i115.fastpic.org/big/2021/0923/3e/ab91acd438d36c1f0dba5eeb9fbd403e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_DuckTV",Duck TV
@@ -201,8 +201,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/7251/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/1018/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/HDL.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_HDL",HDL HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19251/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0508/ec/7c7974c5958c1f6691d80075311b23ec.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cobra TV Drama",Cobra Triller HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20215/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/17/0268aec3f7f1d452907e133e8487a817.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Kids 4K",BCU Kids 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17023/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i115.fastpic.org/big/2021/0927/b3/d98f557f61f264158bad539beda99fb3.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_М1",M1 HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15016/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Da Vinci learning.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Da Vinci UA",Da Vinci Kids UA
@@ -213,8 +213,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14223/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/270/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0716/cc/2e58034769d0b8415c8fd77f952e4ecc.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY PLANETA 360 HD",Liberty Планета360 FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17026/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0724/39/15ec04e429970f771c5ae491b5cbb139.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Eye History",Eye History HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20217/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0731/89/d7bebba0923cb879bb6838a636b65789.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_YOSSO 4K",Yosso TV 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16153/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0808/92/fb5bac679e157e4f4ec23c273494c292.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_минимакс-relax HD",MM Relax HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/13030/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/NickToons.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_NickToons",NickToons
@@ -225,8 +225,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14231/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/271/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/1129/fb/25591db2f71df2068f68230942f4cbfb.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Космо HD",Космо HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11065/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0724/b6/2bb93a8a8959fca1eae359f84205e1b6.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Eye Western",Eye Western HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20218/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Кино UHD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кино UHD",Кино UHD 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5004/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0718/26/9fbe11aa26c6a075123e77c4a98b2626.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Музыка",VF Музыка
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15512/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Капитан Фантастика.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Капитан Фантастика HD",Капитан Фантастика
@@ -237,8 +237,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18169/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/272/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Food network HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Еда Премиум",FoodTime HD 50
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10025/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1029/10/7c304824084c5e70e6469620463d9c10.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_DetectiveJam",DetectiveJam HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20209/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Сериал UHD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Сериал UHD",Сериал UHD 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5005/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0718/81/6b1c0e99d3948d064cc7029d4a0de081.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Music",VF Music
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15516/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Смайлик.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Смайлик ТВ",Смайлик ТВ
@@ -249,8 +249,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18198/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2000/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i121.fastpic.org/big/2023/0303/1f/4b916411b51f5bdb5e05e36caabdf01f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Explore",Viju Explore HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6381/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0825/9c/bf7b324bd2e137768b6edc341bc2579c.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Kion ХИТ HD",KION Хит HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20211/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0718/fb/fe9b0636ae5d1d9b8f51304ee86569fb.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Кино 4K",VF Кино 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11114/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0718/76/7703a8bf64bcc6c673b87b0010230776.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Rock",VF Rock
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15517/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Cartoon Network.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cartoons 90",Cartoons 90
@@ -261,8 +261,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14245/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2007/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Арсенал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Арсенал HD",Арсенал HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5044/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0508/de/ede4e244001b9a307cb86114efaf33de.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cobra TV Comedy",Cobra Comedy HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20212/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0718/2f/fc8926cf95fae1be6978ce633091912f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Сериал 4K",VF Сериал 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11115/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0718/25/f4963a46108bd33f207d22d7cd92fc25.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Караоке",VF Караоке
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15518/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Cartoon Network.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cartoons Short",Cartoons Short
@@ -273,8 +273,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16137/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2146/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Galaxy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Тайны Галактики",Galaxy HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5045/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0508/b4/c31b1ef5d93379dc1d372bfb0f052cb4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cobra TV Detektiv",Cobra Detektiv HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20213/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/0a/c7667e81725bab69d949c2be5cb9500a.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere Ultra 4K",BCU Premiere Ultra 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15023/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0718/8a/3b7e01030b71ca3dad8b21df67c30e8a.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Шансон",VF Шансон
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15519/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Cartoon Network.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cartoons Big",Cartoons Big
@@ -285,8 +285,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18199/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2135/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Старт.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Старт",Старт HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6384/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0508/d8/806f4c0b51cd92e8d6cade7eaf5962d8.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cobra TV Melodrama",Cobra Melodrama HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20214/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ultra HD Cinema",Ultra HD Cinema 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/4000/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0718/d0/952ed9879454317a8a43bf31533392d0.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Музсоюз",VF Музсоюз
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15521/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/0731/b8/84141f2a354bcfdfdf14dffd6ebba2b8.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_YOSSO TV KIDS",Yosso TV Kids
@@ -297,8 +297,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18200/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/206/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Загородный.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Загородный int HD",Загородный int HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2124/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1121/57/2d8c640a91d50c36e80de2c3ea7bd157.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KBC-МИКС UA HD",KBC-Микс UA HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20178/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0508/ec/7c7974c5958c1f6691d80075311b23ec.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cobra TV Drama",Cobra Triller HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20215/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/РБК.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РБК",РБК HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16075/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0718/cc/f02011e5aa7200b31006d405a6660ecc.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Metal",VF Metal
@@ -309,8 +309,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14178/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/207/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Investigation Discovery HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ID Investigation Discovery (Европа)",Investigation Discovery HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2102/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0322/02/ca9285cac7c093a14155cd04eafcd102.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Netflix",KLI Netflix HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20177/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0724/39/15ec04e429970f771c5ae491b5cbb139.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Eye History",Eye History HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20217/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/360° Новости.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_360° Новости",360 Новости HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18038/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0718/1c/dd5b00b876a113df002d1f94b491121c.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Rap",VF Rap
@@ -321,8 +321,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19433/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19396/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Глазами туриста.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Глазами туриста",Глазами Туриста HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2104/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Music Box Gold.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BOX Fantasy HD",BOX Fantasy HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20156/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0724/b6/2bb93a8a8959fca1eae359f84205e1b6.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Eye Western",Eye Western HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20218/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0718/4e/3e62f9a40692a4af20f7109db29f654e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Хит-парад",VF Хит-парад
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17036/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/0710/92/fa47e6834a52b50727186e60225a4b92.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_UZ-Ну Погоди",UZ Ну погоди! HD
@@ -331,8 +331,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14233/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19422/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_В мире животных",В мире животных HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2089/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0519/27/d48644d34c406135c268480d26600a27.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Magic Adventure",Magic Adventure HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20141/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1029/10/7c304824084c5e70e6469620463d9c10.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_DetectiveJam",DetectiveJam HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20209/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0718/cb/dbeab9f7a4e9a5d1272a541ed89fdbcb.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Русский рок",VF Русский рок
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17037/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i116.fastpic.org/big/2022/0228/fb/aabaac7ebe8a9b2dcf2753d522402cfb.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_SKY HIGH Bunny",Bunny HD
@@ -341,8 +341,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14239/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19423/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Моя Планета",Моя Планета HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2090/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1125/c3/7623085b131bfe17bdad5793a9aab8c3.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI DRAMA",KLI Drama FHD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20053/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0825/9c/bf7b324bd2e137768b6edc341bc2579c.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Kion ХИТ HD",KION Хит HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20211/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i117.fastpic.org/big/2022/0418/ab/5bc7f0abb95d762f8d689da5e84964ab.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Music",KLI Music HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16079/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/1121/ac/805c2a75829b4dfedf3e456d595b16ac.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY PIXAR",Liberty Pixar FHD
@@ -351,8 +351,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15092/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19424/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Живая природа.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Живая природа",Живая природа HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2074/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1125/c3/e3ae040502917574ce980a04e3ee48c3.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Fantasy HD",KLI Fantasy FHD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20054/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0508/de/ede4e244001b9a307cb86114efaf33de.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cobra TV Comedy",Cobra Comedy HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20212/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i117.fastpic.org/big/2022/0418/6b/fbcbd40d5ad0d9210a16ddf7803a516b.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Hit 90",KLI Hit 90
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16081/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/0716/58/2ed789d6319b79f67f1957cc1d04cd58.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY DISNEI",Liberty Disney FHD
@@ -361,8 +361,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15093/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2145/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Большая Азия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Большая Азия",Большая Азия HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2009/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1125/11/f81a075f7b76a90a10c4a4189705a411.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Action",KLI Action FHD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20051/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0508/b4/c31b1ef5d93379dc1d372bfb0f052cb4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cobra TV Detektiv",Cobra Detektiv HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20213/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1115/bd/b536fa97fe9227501af1af281d7c56bd.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Backus TV music",Backus TV Music HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18040/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/0718/e7/0ff61e8eda960852e168d04a177bdfe7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Мультуб",VF Мультуб
@@ -371,8 +371,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15520/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2154/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Дикая охота HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дикая Охота HD",Дикая охота HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2004/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киносерия",Киносерия HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19229/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0508/d8/806f4c0b51cd92e8d6cade7eaf5962d8.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Cobra TV Melodrama",Cobra Melodrama HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20214/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Балет Опера",Балет Опера HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18083/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/0718/72/5e41032253e01ae4f8936c0762b82272.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Скуби-Ду",VF Скуби-Ду
@@ -381,8 +381,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17007/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6541/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/DTX HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_DTX",DTX HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2006/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наше Новое Кино",Наше Новое Кино HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19231/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1121/57/2d8c640a91d50c36e80de2c3ea7bd157.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KBC-МИКС UA HD",KBC-Микс UA HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20178/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1101/97/911bf037472c4cd41d2899bf6207d097.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FRESH Pop Hits HD",FRESH Pop Hits HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18084/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/0619/a1/724265f9a079962b0cd598facb092aa1.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MS TOONS HD",MS Toons HD
@@ -391,8 +391,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16146/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6542/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дикая Рыбалка HD",Дикая рыбалка HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2005/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CINEMA",Cinema HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19233/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0322/02/ca9285cac7c093a14155cd04eafcd102.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Netflix",KLI Netflix HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20177/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1101/31/97e1d62c179862eec2903bc3670dc631.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FRESH Russian Pop HD",FRESH Russian Pop HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18085/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/0710/ac/aaf43c8024ba7daae9cbcd42ccbc56ac.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_UZ-Маша и Медведь HD",UZ Маша и Медведь HD
@@ -401,8 +401,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18165/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10039/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Приключения HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Приключения HD",Приключения HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/920/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Global Star tv.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_START World",START World HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19248/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Music Box Gold.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BOX Fantasy HD",BOX Fantasy HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20156/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1101/f7/91aa216a57f3633a8c3785542f5141f7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FRESH Sad Music HD",FRESH Sad Music HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18086/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/0710/64/16ea5b2651049de313ca5fd004ddf064.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_UZ-СоюзМульт HD",UZ Союз Мульт HD
@@ -411,8 +411,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18168/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10057/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/DocuBox.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_DocuBox HD",DocuBox HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/968/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Animal Planet.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Plan_B HD",Plan B HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19249/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0519/27/d48644d34c406135c268480d26600a27.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Magic Adventure",Magic Adventure HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20141/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1101/45/641da8f08189445ac2304807de169545.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FRESH Dance HD",FRESH Dance HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18087/index.m3u8
 #EXTINF:-1 group-title="Детские",MYTV Kids
@@ -421,8 +421,8 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19409/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10058/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Настоящее время",Настоящее время
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/986/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Zee TV",Индия HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19250/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1125/c3/7623085b131bfe17bdad5793a9aab8c3.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI DRAMA",KLI Drama FHD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20053/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1101/96/64dad7e0c7112bae2fc4688b5e9f0096.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FRESH Rock Hits HD",FRESH Rock Hits HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18088/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i117.fastpic.org/big/2022/0515/66/427e701da0ff3a45cc8627fe1828d266.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Little",BCU Little HD
@@ -431,216 +431,220 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19425/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15143/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Охотник и рыболов HD",Охотник и рыболов HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/917/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/vip premiere.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Premiere HD",Premiere HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11094/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1125/c3/e3ae040502917574ce980a04e3ee48c3.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Fantasy HD",KLI Fantasy FHD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20054/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1101/25/963ac90d878dc150ad1447beb471a325.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FRESH Rock Covers HD",FRESH Rock Covers HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18089/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Setanta Sports UA",Setanta Ukraine HD orig
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15183/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Food network HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Еда Премиум",FoodTime
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/918/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Мир Premium HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Premium HD",Premium HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11095/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1125/11/f81a075f7b76a90a10c4a4189705a411.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Action",KLI Action FHD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20051/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1101/f8/ee1f62aa6613941c5e895ceae59930f8.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FRESH Russian Rap HD",FRESH Russian Rap HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18090/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Setanta Sports+",Setanta Ukraine Plus HD orig
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15184/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/TLC HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TLC HD",TLC HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/232/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i115.fastpic.org/big/2021/0913/d4/65a57e68d5a14842e751afbc713522d4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РуКино HD",РуКино HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11096/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киносерия",Киносерия HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19229/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1101/e3/becac5e0258c42ebe4ba5976ee3c13e3.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FRESH Concerts HD",FRESH Concerts HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18091/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://i120.fastpic.org/big/2022/1006/7d/dba18c653001f73e813a275969cb8c7d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Q sport Arena HD",QSport Arena HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15238/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Travel channel HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Travel Channel CEE HD",Travel Channel HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/233/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i115.fastpic.org/big/2021/0913/6c/3b657dc2fa03e7e6a5cd32713b1a756c.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Victory HD",Victory HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11097/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наше Новое Кино",Наше Новое Кино HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19231/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1101/b7/d238d1d7577e35f32dba5cb43d596db7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FRESH Retro HD",FRESH Retro HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18092/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Страна",Матч! Страна HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19219/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/History HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_History",History HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/231/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Paramount Comedy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Paradox HD",Paradox HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11098/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CINEMA",Cinema HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19233/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/1101/89/712c573b1b532931a22ebd51bc185f89.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_FRESH Lyrics HD",FRESH Lyrics HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18093/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Боец",Матч! Боец HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19221/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Discovery Channel HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Discovery Channel HD",Discovery Channel HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/227/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i115.fastpic.org/big/2021/0913/46/d56746880ef0b835b2cd0ec772e20546.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Thriller HD",Thriller HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11099/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Global Star tv.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_START World",START World HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19248/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i115.fastpic.org/big/2021/0924/7d/c110cb84eb11a2d5f988ee856e65dd7d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_NRG 91 TV HD",NRJ HITS HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19199/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://i120.fastpic.org/big/2022/0920/96/d6aa6a40d1ebf95eaa1498b3e7afb696.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_M-1 Global",MMA-TV.com HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19243/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Nat Geo Wild HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nat Geo Wild HD",Nat Geo Wild HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/216/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Paramount Comedy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Paradise HD",Paradise HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11100/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Animal Planet.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Plan_B HD",Plan B HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19249/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТНТ MUSIC",ТНТ Music HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19223/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Футбол HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Футбол",Футбол HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19244/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Animal Planet HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Animal Planet CEE",Animal Planet HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/218/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Шант Serial HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Serial HD",Serial HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11101/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Zee TV",Индия HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19250/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/BRIDGE TV DELUXE.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bridge TV Deluxe HD",Bridge Deluxe HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19224/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Бокс ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Бокс ТВ",Бокс ТВ HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19245/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_НТВ",НТВ HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/213/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/НТВ Стиль.png",Илья ТВ Кино HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11103/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i115.fastpic.org/big/2021/0913/d4/65a57e68d5a14842e751afbc713522d4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РуКино HD",РуКино HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11096/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bridge TV Fresh",Bridge Rock HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19225/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Зал суда.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Удар",Удар HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19246/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/RTG HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RTG HD",RTG HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/210/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Астрахань 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Астрахань 24",Страх HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11069/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i115.fastpic.org/big/2021/0913/6c/3b657dc2fa03e7e6a5cd32713b1a756c.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Victory HD",Victory HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11097/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/BRIDGE TV РУССКИЙ ХИТ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bridge TV Русский Хит",Bridge Русский Хит HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19226/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i121.fastpic.org/big/2023/0303/8b/ac5186ddb9de8971805ece431a80ba8b.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat History",Viju History HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/203/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинозал! VHS HD",Кинозал! ХИТ HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11064/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Paramount Comedy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Paradox HD",Paradox HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11098/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bridge TV Hits",Bridge Hits HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19227/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/National Geographic HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_National Geographic HD",National Geographic HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14001/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинозал! VHS HD",Кинозал! VHS HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11059/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i115.fastpic.org/big/2021/0913/46/d56746880ef0b835b2cd0ec772e20546.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Thriller HD",Thriller HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11099/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i120.fastpic.org/big/2022/0731/c7/7b5b4ba0b0b7a9bd8bcc002388cb8fc7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_#ё (Самара)",Ё Самара HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20162/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Крик ТВ (Екатеринбург).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Криминальное",Криминальное HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14033/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/e9/b0687e750cdbf80d529880d5498865e9.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere 1 HD",BCU Кинозал Premiere 1 HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11015/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Paramount Comedy.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Paradise HD",Paradise HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11100/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Music Box Russia.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BOX RU.RAP HD",Box Rurap HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20171/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/76/b28f9a24ab24b870e6a9d055e7971c76.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere 2 HD",BCU Кинозал Premiere 2 HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11016/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Шант Serial HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Serial HD",Serial HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11101/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/National Geographic HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_National Geographic HD",National Geographic HD orig
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14002/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/H2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_H2 HD",H2
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/1052/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere 3 HD",BCU Кинозал Premiere 3 HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11017/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Илья ТВ Кино HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11103/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Travel channel HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Travel Channel CEE HD",Travel Channel EN
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/1070/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/5f/f6f08c10f32ca53a676910616cb9255f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU СССР HD",BCU СССР HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11026/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинозал! VHS HD",Кинозал! ХИТ HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11064/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Viasat history HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_History Европа",History HD CEE
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/837/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/35/59461f67513e83fc46e0a5bd25869835.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Action HD",BCU Action HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11027/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинозал! VHS HD",Кинозал! VHS HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11059/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Наука.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наука 2.0",Наука HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2155/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/51/f833a98a6dbf8da3b0e7b29016dc0051.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Catastrophe HD",BCU Catastrophe HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11028/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/e9/b0687e750cdbf80d529880d5498865e9.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere 1 HD",BCU Кинозал Premiere 1 HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11015/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Nat Geo Wild HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nat Geo Wild HD DE",Nat Geo Wild HD DE
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/7256/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/7a/6efc99b105fa59200d133b005fe22b7a.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Cinema HD",BCU Cinema HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11029/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/76/b28f9a24ab24b870e6a9d055e7971c76.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere 2 HD",BCU Кинозал Premiere 2 HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11016/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Animal Planet HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Animal Planet CEE",Animal Planet HD DE
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/7257/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/17/891b4addeb16dd32c1738dae24cd7717.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Cinema+ HD",BCU Cinema+ HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11030/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere 3 HD",BCU Кинозал Premiere 3 HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11017/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i116.fastpic.org/big/2022/0228/b4/31d244534d94323bb4c923e9dd4e70b4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_SKY HIGH Nature 4K",SKY HIGH NATURE 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14247/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/f4/72f5d0bbf39cb89fd60a9f073a1067f4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Comedy HD",BCU Comedy HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11031/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/5f/f6f08c10f32ca53a676910616cb9255f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU СССР HD",BCU СССР HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11026/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i116.fastpic.org/big/2022/0228/c2/82d639ad1f17ce7fa2ffa300c9f3bcc2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_SKY HIGH Nature 4K HDR",SKY HIGH NATURE 4K HDR
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14248/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/1f/e86eff09d0d497a5f39ed7f97295931f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Fantastic HD",BCU Fantastic HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11032/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/35/59461f67513e83fc46e0a5bd25869835.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Action HD",BCU Action HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11027/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0716/09/a8d353caa7ccda15052f114fecbac309.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY BBC",Liberty BBC FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15108/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/d4/583fff4936889bbd459157bcf49d15d4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU FilMystic HD",BCU FilMystic HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11033/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/51/f833a98a6dbf8da3b0e7b29016dc0051.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Catastrophe HD",BCU Catastrophe HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11028/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0716/1f/038763a5bd38475dccbd159f7c0d691f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY TOPGEAR",Liberty Авто Гир FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15109/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/5e/a26c44d68845e1baf34d413edeeab65e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU History HD",BCU History HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11034/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/7a/6efc99b105fa59200d133b005fe22b7a.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Cinema HD",BCU Cinema HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11029/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Конный мир HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мир вокруг",Мир Вокруг HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15219/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/78/7678f45ec347a2304fbc905e160ee578.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Kids+ HD",BCU Kids+ HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11036/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/17/891b4addeb16dd32c1738dae24cd7717.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Cinema+ HD",BCU Cinema+ HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11030/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i121.fastpic.org/big/2023/0303/db/fc64ba9fa2b45942de1688c77c14dadb.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viasat Nature",Viju Nature HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15225/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/0d/6cef79b63fd1dd5752a95aec64f7fd0d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Kinorating HD",BCU Kinorating HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11037/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/f4/72f5d0bbf39cb89fd60a9f073a1067f4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Comedy HD",BCU Comedy HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11031/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0718/7a/3204a7661a71b424077138a6569d427a.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Авто",VF Авто
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15511/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/cd/372a6b63dda414e030ee7223f87161cd.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Marvel HD",BCU Marvel HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11038/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/1f/e86eff09d0d497a5f39ed7f97295931f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Fantastic HD",BCU Fantastic HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11032/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0718/9e/1379474df61eba6f970fbafe34fa969e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Охота",VF Охота
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15513/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/87/5f5a31eca8ae7dd43257e4ad50228a87.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere HD",BCU Premiere HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11039/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/d4/583fff4936889bbd459157bcf49d15d4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU FilMystic HD",BCU FilMystic HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11033/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0718/14/35e7c469996ea8084df886ec38108b14.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Домашний повар",VF Домашний повар
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15514/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/a7/b69babd34df400a2091195e2c0511da7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Romantic HD",BCU Romantic HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11040/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/5e/a26c44d68845e1baf34d413edeeab65e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU History HD",BCU History HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11034/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0718/60/17db596580252f27b362752fcd389b60.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Путешествия",VF Путешествия
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15515/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/91/7d4200dead911b08723f6edebefb2191.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Russian HD",BCU Russian HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11041/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/78/7678f45ec347a2304fbc905e160ee578.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Kids+ HD",BCU Kids+ HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11036/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0718/b2/d73a81da48da749e92f1f2282e987eb2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Рыбалка",VF Рыбалка
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16138/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/34/fc84e5a5fb536670e184235cf2471e34.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU VHS HD",BCU VHS HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11042/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/0d/6cef79b63fd1dd5752a95aec64f7fd0d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Kinorating HD",BCU Kinorating HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11037/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0718/4f/1df06203e4c31a9dcf9b2d3fb6b70a4f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Стройка",VF Стройка
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16139/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/83/497c0555b06f9ed702fba28bf597ca83.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU MEDIA HD",BCU Media HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11043/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/cd/372a6b63dda414e030ee7223f87161cd.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Marvel HD",BCU Marvel HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11038/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0808/8d/f9c1713e26a5ee0caa5ac4411f5e7c8d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_минимакс-микромир HD",MM Микромир HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18193/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/c4/cdbb6224861767471684e86e696863c4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Stars HD",BCU Stars HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11044/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/87/5f5a31eca8ae7dd43257e4ad50228a87.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Premiere HD",BCU Premiere HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11039/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0808/b7/d620ed3b16cae3eb32400b18c5290fb7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_минимакс-макромир HD",MM Макромир HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18194/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/51/920a235d1858969818d498f4f8b23f51.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Ultra 4K",BCU Ultra 4K
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11045/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/a7/b69babd34df400a2091195e2c0511da7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Romantic HD",BCU Romantic HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11040/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0808/53/992868ea2b22ecfac13dab5033420553.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_минимакс-мегамир HD",MM Мегамир HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18195/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/a1/f8dbf92918e05eb4b053a4f34e81e2a1.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU RUSERIAL HD",BCU RuSerial HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11046/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/91/7d4200dead911b08723f6edebefb2191.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Russian HD",BCU Russian HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11041/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0808/79/661894d1b719fc5cf6129bf7f80a1779.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_минимакс-translation HD",MM Translation HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18196/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/d2/126e9f897d569495d5883a19d1ab1fd2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Criminal HD",BCU Criminal HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11048/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/34/fc84e5a5fb536670e184235cf2471e34.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU VHS HD",BCU VHS HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11042/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Охотник и рыболов HD",Рыболов HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19254/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/fe/bf3a89e0c7b07fd8b13f4f1bb6a65dfe.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Reality HD",BCU Reality HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16082/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/83/497c0555b06f9ed702fba28bf597ca83.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU MEDIA HD",BCU Media HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11043/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i116.fastpic.org/big/2022/0228/c2/82d639ad1f17ce7fa2ffa300c9f3bcc2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_SKY HIGH NATURE FHD",SKY HIGH NATURE FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19309/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/03/bbf7e883de482e2d7f43e5bf285ac903.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Survival HD",BCU Survival HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17019/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/c4/cdbb6224861767471684e86e696863c4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Stars HD",BCU Stars HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11044/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/1202/d9/70269ecb93eb764d2fa69bafec39a0d9.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MM Experiment HD",MM Experiment HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19412/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/56/ffa60e62c75459965bc53b3d627b5a56.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Cosmo HD",BCU Cosmo HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17021/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/51/920a235d1858969818d498f4f8b23f51.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Ultra 4K",BCU Ultra 4K
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11045/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i120.fastpic.org/big/2022/0825/b3/2c3bbf37ed34af991bd39fe47b503fb3.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MM Открытия HD",MM Открытия HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19415/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/a1/f8dbf92918e05eb4b053a4f34e81e2a1.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU RUSERIAL HD",BCU RuSerial HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11046/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/d2/126e9f897d569495d5883a19d1ab1fd2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Criminal HD",BCU Criminal HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11048/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/fe/bf3a89e0c7b07fd8b13f4f1bb6a65dfe.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Reality HD",BCU Reality HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16082/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/03/bbf7e883de482e2d7f43e5bf285ac903.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Survival HD",BCU Survival HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17019/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i117.fastpic.org/big/2022/0515/56/ffa60e62c75459965bc53b3d627b5a56.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BCU Cosmo HD",BCU Cosmo HD
+http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17021/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1115/34/ec145edb9b211c6d3f6a2e550c2c8d34.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BackusTV",Backus TV Original HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11049/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мужское кино",Мужское Кино HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10045/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0303/85/a27ca308c789c037cd77615e4fb40285.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000 Action",Viju TV1000 Action HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6386/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0303/f4/a06e6706dfa9fcae61718f6dc77db2f4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000",Viju TV1000 HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6387/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0303/de/49c8e238eac49e7ad211cba29484d1de.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000 Русское кино",Viju TV1000 Русское HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6388/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1006/f9/067721b807bbc451f63f0756f48ccdf9.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Сапфир",Сапфир HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6389/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Победа HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Победа",Победа HD
@@ -653,8 +657,6 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5054/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2430/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Наш кинопоказ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наш Кинопоказ",Наш Кинопоказ HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2434/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Блокбастер.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Блокбастер",Блокбастер HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2436/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Хит HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Хит HD",Хит HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2438/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинопоказ HD",Кинопоказ HD
@@ -663,8 +665,6 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2439/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2440/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Камеди.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Камеди",Камеди HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2441/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0303/ac/062e5e2b0475d9c980ec8baceae14cac.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VIP Serial HD",Viju+ Serial HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2443/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Шокирующее",Шокирующее HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6299/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0731/98/94a212a158d258b128cce48d896f8098.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТВ 3",ТВ3 HD
@@ -685,8 +685,6 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2056/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2046/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bollywood HD",Bollywood HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/239/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Остросюжетное HD",Остросюжетное HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/904/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дом Кино Премиум",Дом Кино Премиум HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/911/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Комедийное",Комедийное HD
@@ -1045,8 +1043,6 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16064/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16065/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0718/bd/fbca751d8d676d92db5f53fdd1fdbcbd.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF The X-Files",The X-Files
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11055/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/TV1000 Русское кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинозал! VHS HD",Кинозал! Интерны ТВ
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11060/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Классика кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинозал! VHS HD",Кинозал! СССР
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11061/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кинозал! VHS HD",Кинозал! Сваты
@@ -1389,14 +1385,6 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19286/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19427/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2022/1220/52/86ea7df6927a2d656ca26746ca8add52.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF HBO",VF HBO
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19428/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1101/77/280a8315143ccd00af2c302b21645d77.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Z!Channel HD",Z! Channel HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14134/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0723/1e/369a1fb743eef57ffc17f8605512e51e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Z!Comedy HD",Z! Comedy HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14135/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0724/36/0a0460675fc611bfd0e82ce6d1fd7c36.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Z!Crime HD",Z! Crime HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14136/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0724/c8/b3579fd9156ac97375f6fb5d8a46cfc8.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Z!Horror HD",Z! Horror HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14137/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Star Family HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Millennium TV",Millennium TV HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14160/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1031/fe/31ddcec6c8c30d7aa5cdb743e1e604fe.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Akubji",Akudji TV HD
@@ -1443,34 +1431,6 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16151/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16152/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0731/e9/c1df1e942a66f18cfa4bd4f710b14be9.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_c-live-yosso",Citrus History
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18139/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/03/3b10f822868efc711808a31c01687303.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug Comedy HD",Dosug TV Comedy HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14209/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/3f/4a80c2472d49fb6a2ab196eb1078673f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug Fantastic HD",Dosug TV Fantastic HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14210/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/c6/8552e07e138ba12e16f56b3be4af99c6.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug History HD",Dosug TV History HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14211/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/56/2c6840d65a6157c0b3a3d0e585cefb56.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug Hit HD",Dosug TV Hit HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14212/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/5a/895f67c7bf80908e74b9dbdbe20e2c5a.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug Horror HD",Dosug TV Horror HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14213/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/b2/c203efa1c07dc842ed0e2152041741b2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug Kids HD",Dosug TV Kids HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14214/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/ab/a46c1fac1e18f2416b88375bab5c05ab.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug Marvel HD",Dosug TV Marvel HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14215/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/c7/dae91c35d427443216656ce31f3aa4c7.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug New HD",Dosug TV New HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14216/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/7a/1bf96ccc8d09d9d5568b4741000ff67a.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug Russian HD",Dosug TV Russian HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14217/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/73/6e3bdce9128056f68220260213af8073.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug СССР HD",Dosug TV СССР HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14218/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/50/d45bb9d6d0a4497e4569d74d18b3fa50.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug TV VHS",Dosug TV VHS
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14225/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/d3/b70bfe8a1fbd45448406a0d2a6a3ddd3.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug TV Ходячие мертвецы",Dosug TV Ходячие мертвецы
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14226/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/02/024a17f10fd5a86d1a3580284222ae02.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug TV Сериал",Dosug TV Сериал
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14227/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2021/1113/d0/55ac23ec4642eb986536ff7cd30086d0.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Dosug TV Сваты",Dosug TV Сваты
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14228/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Твой дом HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Твое ТВ",Твое ТВ HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14229/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2022/0228/7c/673a25ef52f85e4f243c920827b8457c.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_SKY HIGH Series",SKY HIGH SERIES HD
@@ -1705,42 +1665,10 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18068/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18170/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/0630/fc/113a8d499a75633fd8af6401cd007afc.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Magic Love",Magic Love HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18171/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Кино UHD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кино 1",Кино 1 HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18069/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Кино UHD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кино 2",Кино 2 HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18070/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Дом кино премиум HD_.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Кино 1 Int.",Кино 1 International
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18071/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Военное кино",Военное кино HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18072/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Детское радио.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Детское Кино Int.",Детское кино HD
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18073/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Детское радио.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Детское Кино Int.",Детское кино International
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18074/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 1",Кинозал 1
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18126/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 2",Кинозал 2
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18127/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 3",Кинозал 3
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18128/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 4",Кинозал 4
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18129/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 5",Кинозал 5
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18130/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 6",Кинозал 6
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18131/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 7",Кинозал 7
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18132/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 8",Кинозал 8
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18133/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 9",Кинозал 9
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18134/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 10",Кинозал 10
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18135/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 11",Кинозал 11
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18136/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV Кинозал 12",Кинозал 12
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18137/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/PROГонки.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Prokop Criminal",Prokop TV Criminal
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/18140/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/PROГонки.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_PROKOP KIDS",Prokop TV Kids
