@@ -151,7 +151,7 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/6377/index.m3u8
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5069/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/RTG HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RTG HD",RTG HD orig
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/9021/index.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дорама",Дорама HD orig
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="dorama",Дорама HD orig
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/9224/index.m3u8
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/РБК.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РБК",РБК HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16075/index.m3u8
