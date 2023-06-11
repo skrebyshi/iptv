@@ -1,6 +1,6 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Playboy TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Playboy TV",Playboy
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/527/index.m3u
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Playboy TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Playboy TV",Play
+C:\Users\SKR\OneDrive - mu.medfordmemorial.org\FILMS\Dungeons.and.Dragons.Honor.Among.Thieves.2023.BDRip.1080p.seleZen.mkv
 #EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Erox HD.png",Eromania 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/10049/index.m3u
 #EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Русская ночь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русская ночь",Русская Ночь
