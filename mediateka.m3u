@@ -1,9 +1,8 @@
-#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="" tvg-logo="https://kinogo.cx/uploads/posts/2023-05/1683957568_mat.jpg",Мать (2023)
-https://b86-b4d-2100g0.v.plground.live:10402/hs/51/1685474643/cHpZLnDV_OBanSY-yUA22g/173/759173/4/index-f1-v1-sa4-a1.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://kinogo.cx/uploads/posts/2023-04/1682071346_mizantrop.jpg" tvg-id="noepg",Мизантроп (2023)
-https://142-d04-1048g0.v.plground.live:10402/hs/51/1685475598/IAWvFPEUmUTSdzefDTuhBg/91/761091/4/index-f1-v1-sa4-a1.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://kinogo.cx/uploads/posts/2023-01/1673634958_dzhon-uik-4.jpg",Джон Уик 4 (2023)
-https://251-a1e-3000g0.v.plground.live:10402/hs/51/1685475389/SWohamB0qOUBo6_xL-UbAA/494/762494/4/index-f1-v1-sa4-a1.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://kinogo.cx/uploads/posts/2023-03/1678202535_renfild.jpg",Ренфилд (2023)
-https://f24-6cf-1033g0.v.plground.live:10402/hs/51/1685475789/PdDPcTjt8LpWfvNIcG59Tg/936/754936/4/index-f1-v1-sa4-a1.m3u8
+#EXTM3U
+
+#EXTINF:-1 ,Люси (2014),tvg-logo="https://static.hdrezka.ac/i/2022/10/10/wf8b6894732d8gc66j74t.jpeg"
+https://turbo.cloud.cdnland.in/1ab008d4ac1d59121b12f569210575f2:2023061408/movies/bcd705ae6e0553b714bc231840d5775263b81c50/1080.mp4?dn=%D0%9B%D1%8E%D1%81%D0%B8+%5B%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6%5D_1080p.mp4
+#EXTINF:-1 ,Форсаж 10(2023),tvg-logo="https://static.hdrezka.ac/i/2023/3/16/q2d066f4130e9tu15m10r.jpg"
+https://dl.getzend.digital/video-download?m=https%3A%2F%2Fhye1eaipby4w.takedwn.ws%2F06_12_23%2F06%2F12%2F12%2FWR74FKBL%2FDFEKDOMB.mp4%2Fmaster.m3u8&name=%D0%A4%D0%BE%D1%80%D1%81%D0%B0%D0%B6+10
+#EXTINF:-1 ,Форсаж 10(2023),tvg-logo="https://static.hdrezka.ac/i/2023/3/16/q2d066f4130e9tu15m10r.jpg"
+http://70.server-bezsms.ru/files/8/37guqj2f33rp3z/f0Psazh.1O.2023.P.WEB-DLRip.avi
