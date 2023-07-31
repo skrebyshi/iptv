@@ -23,8 +23,6 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14144/index.m3u
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20155/index.m3u
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/1125/fe/8d94f44e007ccda80642ccdec54e38fe.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_KLI Kids",KLI Kids FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20047/index.m3u
-#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2023/0303/6f/b9098670f7a90568eab1915e272d266f.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_TV 1000 World Kino",Viasat Kino World
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/1065/index.m3u
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Дождь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дождь",Дождь HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/20083/index.m3u
 #EXTINF:-1 group-title="Cпорт" tvg-logo="../Channel/Logo/Setanta Sports Ukraine.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Setanta Sports+",Setanta Eurasia Plus HD
@@ -1075,9 +1073,9 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/7261/index.m3u
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16021/index.m3u
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i121.fastpic.org/big/2022/1220/bd/721976213d0a93d3947843fd68f5f8bd.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_VF Disney Movie",VF Disney Movie
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/15010/index.m3u
-#EXTINF:-1 group-title="Фильмовые",VF Ёлки
+#EXTINF:-1 group-title="Фильмовые" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_vf-elki",VF Ёлки
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14222/index.m3u
-#EXTINF:-1 group-title="Фильмовые",VF Гарри Поттер
+#EXTINF:-1 group-title="Фильмовые" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_vf-garipoter",VF Гарри Поттер
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/14230/index.m3u
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i120.fastpic.org/big/2022/1115/34/ec145edb9b211c6d3f6a2e550c2c8d34.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BackusTV",Backus TV Original HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/11049/index.m3u
@@ -1117,9 +1115,3 @@ http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/16153/index.m3u
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/5004/index.m3u
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="http://i116.fastpic.org/big/2022/0406/ff/cbccbde1f069312415b9a1ea90945aff.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ultra HD Cinema",Ultra HD Cinema 4K
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/4000/index.m3u
-#EXTINF:-1 group-title="Фильмовые",MYTV
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19407/index.m3u
-#EXTINF:-1 group-title="Фильмовые",MYTV 2
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19408/index.m3u
-#EXTINF:-1 group-title="Фильмовые",MYTV HIT
-http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19410/index.m3u
