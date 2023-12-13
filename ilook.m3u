@@ -1,4 +1,6 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://static.hdrezka.ac/i/2023/12/9/b8f5f7cd9a477ic19q77u.jpg",Голодные игры: Баллада о змеях и певчих птицах (2023)
+http://195.64.244.26:8080/share.cgi?ssid=899e19a457a24c49bd6d5659eda15061&openfolder=forcedownload&ep=&_dc=1702312636798&fid=899e19a457a24c49bd6d5659eda15061
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Остросюжетное HD",Остросюжетное HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/904/index.m3u
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый канал",Первый канал HD
