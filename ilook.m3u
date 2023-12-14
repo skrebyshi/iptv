@@ -1,5 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://kinogo.inc/uploads/mini/short/30/1565620672-1346219305-alita-boevoy-angel.webp",Алита: Боевой ангел (2019)
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://id.lordfilm1.codes/uploads/posts/2020-02/1582552896-467552113-alita-boevoy-angel.jpg",Алита: Боевой ангел (2019)
 http://195.64.244.26:8080/share.cgi?ssid=eeb6e3cc864148a588c8aba8e2ad0eff&openfolder=forcedownload&ep=&_dc=1702566204258&fid=eeb6e3cc864148a588c8aba8e2ad0eff
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Остросюжетное HD",Остросюжетное HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/904/index.m3u
