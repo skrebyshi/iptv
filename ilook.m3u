@@ -1,18 +1,22 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://filmitorrent.net/uploads/posts/2023-11/thumbs/1701207126_e63083b304.jpg",Телохранитель на фрилансе (2023)
-http://195.64.244.26:8080/share.cgi?ssid=6dbab45a854f4a07bc16e18084641fc5&openfolder=forcedownload&ep=&_dc=1702492189406&fid=6dbab45a854f4a07bc16e18084641fc5
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://kinogo.uk/uploads/mini/full/6b/466f6c04c75ea69206d609075c6b6a.webp",Убийца (2023)
+http://195.64.244.26:8080/share.cgi?ssid=ab4745633e914ce9bc368ad5c75d2958
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Остросюжетное HD",Остросюжетное HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/904/index.m3u
-#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://kinogo.fm/uploads/posts/2023-09/29793297-02968296.jpg",Пила 10 (2023)
-http://195.64.244.26:8080/share.cgi?ssid=73c70c6b2a3e4b48b2b9da713d14ca18&openfolder=forcedownload&ep=&_dc=1702316286973&fid=73c70c6b2a3e4b48b2b9da713d14ca18
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://eng.utorr.cc/uploads/posts/2023-10/thumbs/1696268435_35d3f8ccf2.jpg",Последнее путешествие «Деметра»
+http://195.64.244.26:8080/share.cgi?ssid=bad300b97312497e83c41bcd27cc5b4f
 #EXTINF:-1 group-title="Российские" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый канал",Первый канал HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/204/index.m3u
-#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://static.hdrezka.ac/i/2023/12/9/b8f5f7cd9a477ic19q77u.jpg",Голодные игры: Баллада о змеях и певчих птицах (2023)
-http://195.64.244.26:8080/share.cgi?ssid=899e19a457a24c49bd6d5659eda15061&openfolder=forcedownload&ep=&_dc=1702312636798&fid=899e19a457a24c49bd6d5659eda15061
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://filmitorrent.net/uploads/posts/2023-11/thumbs/1701207126_e63083b304.jpg",Телохранитель на фрилансе (2023)
+http://195.64.244.26:8080/share.cgi?ssid=6dbab45a854f4a07bc16e18084641fc5&openfolder=forcedownload&ep=&_dc=1702492189406&fid=6dbab45a854f4a07bc16e18084641fc5
 #EXTINF:-1 group-title="Cпорт" tvg-logo="../Channel/Logo/Моторспорт ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Моторспорт ТВ",Моторспорт ТВ HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/2146/index.m3u
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://kinogo.fm/uploads/posts/2023-09/29793297-02968296.jpg",Пила 10 (2023)
+http://195.64.244.26:8080/share.cgi?ssid=73c70c6b2a3e4b48b2b9da713d14ca18&openfolder=forcedownload&ep=&_dc=1702316286973&fid=73c70c6b2a3e4b48b2b9da713d14ca18
 #EXTINF:-1 group-title="Детские" tvg-logo="http://i120.fastpic.org/big/2022/0716/84/9f1923dc5ca8258428faf1a193282a84.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_LIBERTY BEBIMULT HD",Liberty Бебимульт FHD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/17027/index.m3u
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://static.hdrezka.ac/i/2023/12/9/b8f5f7cd9a477ic19q77u.jpg",Голодные игры: Баллада о змеях и певчих птицах (2023)
+http://195.64.244.26:8080/share.cgi?ssid=899e19a457a24c49bd6d5659eda15061&openfolder=forcedownload&ep=&_dc=1702312636798&fid=899e19a457a24c49bd6d5659eda15061
 #EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/RU TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RU TV",RU TV HD
 http://lnltrvds.ottclub.xyz/iptv/5A86MM7YFX44T9/19247/index.m3u
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://i121.fastpic.org/big/2022/1230/43/a9d1e70a54380260a1d553c534ac1e43.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_BOX Mayday HD",BOX Mayday HD
