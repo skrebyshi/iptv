@@ -1,6 +1,6 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://filmitorrent.net/uploads/posts/2023-12/thumbs/1703773824_e98d7c77eb.jpg",Молчание ангелов (2023)
-
+http://195.64.244.26:8080/share.cgi?ssid=7d9d84da1d0140269fda0515b028bafa&openfolder=forcedownload&ep=&_dc=1703846195407&fid=7d9d84da1d0140269fda0515b028bafa
 #EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://filmitorrent.net/uploads/posts/2023-12/thumbs/1702896686_bcd0a4983f.jpg",Джинн
 http://195.64.244.26:8080/share.cgi?ssid=15bc382d377f4064a36d06b96a7a83d5&openfolder=forcedownload&ep=&_dc=1702998742809&fid=15bc382d377f4064a36d06b96a7a83d5
 #EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://filmitorrent.net/uploads/posts/2023-12/thumbs/1702730280_49d26a827d.jpg",Семейный план
