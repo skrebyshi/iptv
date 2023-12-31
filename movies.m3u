@@ -1,4 +1,6 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://filmitorrent.net/uploads/posts/2023-12/thumbs/1703876453_4c2eadb1d5.jpg",Отвязные дворняги (2023)
+http://195.64.244.26:8080/share.cgi?ssid=f1c21382dca843f297ea15120dc614d4&openfolder=forcedownload&ep=&_dc=1704020404310&fid=f1c21382dca843f297ea15120dc614d4
 #EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://filmitorrent.net/uploads/posts/2023-12/thumbs/1703773824_e98d7c77eb.jpg",Молчание ангелов (2023)
 http://195.64.244.26:8080/share.cgi?ssid=7d9d84da1d0140269fda0515b028bafa&openfolder=forcedownload&ep=&_dc=1703846195407&fid=7d9d84da1d0140269fda0515b028bafa
 #EXTINF:-1 group-title="ФИЛЬМЫ" tvg-logo="https://static.hdrezka.ac/i/2023/11/27/f3f035f224798ym63j54u.jpg",Джинн
