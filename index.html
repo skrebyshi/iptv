@@ -1,13 +1,915 @@
-<html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Ultimate Video Player</title>
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="initial-scale=1, maximum-scale=1 user-scalable=no" />
+		
+		<link rel="stylesheet" type="text/css"  href="content/global.css"/>
+		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
+		
+		<script type="text/javascript" src="java/FWDUVPlayer.js"></script>
+		
+		<!-- Setup video player-->
+		<script type="text/javascript">
+			FWDUVPUtils.onReady(function(){
+				
+				new FWDUVPlayer({		
+					//main settings
+					instanceName:"player1",
+					parentId:"myDiv",
+					playlistsId:"playlists",
+					mainFolderPath:"content",
+					skinPath:"classic_skin_dark",
+					displayType:"fullscreen",
+					initializeOnlyWhenVisible:"no",
+					useVectorIcons:"no",
+					fillEntireVideoScreen:"no",
+					fillEntireposterScreen:"yes",
+					goFullScreenOnButtonPlay:"no",
+					playsinline:"yes",
+					privateVideoPassword:"428c841430ea18a70f7b06525d4b748a",
+					youtubeAPIKey:"",
+					useHEXColorsForSkin:"no",
+					normalHEXButtonsColor:"#666666",
+					googleAnalyticsTrackingCode:"",
+					useResumeOnPlay:"no",
+					useDeepLinking:"yes",
+					showPreloader:"yes",
+					preloaderBackgroundColor:"#000000",
+					preloaderFillColor:"#FFFFFF",
+					addKeyboardSupport:"yes",
+					autoScale:"yes",
+					showButtonsToolTip:"yes", 
+					stopVideoWhenPlayComplete:"no",
+					playAfterVideoStop:"no",
+					autoPlay:"no",
+					autoPlayText:"Click To Unmute",
+					loop:"no",
+					shuffle:"no",
+					showErrorInfo:"yes",
+					maxWidth:980,
+					maxHeight:552,
+					volume:.8,
+					rewindTime:10,
+					buttonsToolTipHideDelay:1.5,
+					backgroundColor:"#000000",
+					videoBackgroundColor:"#000000",
+					posterBackgroundColor:"#000000",
+					buttonsToolTipFontColor:"#5a5a5a",
+					//logo settings
+					showLogo:"yes",
+					logoPath:"",
+					hideLogoWithController:"yes",
+					logoPosition:"topRight",
+					logoLink:"http://www.webdesign-flash.ro/",
+					logoPath:"",
+					logoMargins:10,
+					//playlists/categories settings
+					showPlaylistsSearchInput:"yes",
+					usePlaylistsSelectBox:"yes",
+					showPlaylistsButtonAndPlaylists:"yes",
+					showPlaylistsByDefault:"no",
+					thumbnailSelectedType:"opacity",
+					startAtPlaylist:0,
+					buttonsMargins:15,
+					thumbnailMaxWidth:350, 
+					thumbnailMaxHeight:350,
+					horizontalSpaceBetweenThumbnails:40,
+					verticalSpaceBetweenThumbnails:40,
+					inputBackgroundColor:"#333333",
+					inputColor:"#999999",
+					//playlist settings
+					showPlaylistButtonAndPlaylist:"yes",
+					playlistPosition:"right",
+					showPlaylistByDefault:"yes",
+					showPlaylistName:"yes",
+					showSearchInput:"yes",
+					showLoopButton:"yes",
+					showShuffleButton:"yes",
+					showPlaylistOnFullScreen:"yes",
+					showNextAndPrevButtons:"yes",
+					showThumbnail:"yes",
+					showOnlyThumbnail:"no",
+					forceDisableDownloadButtonForFolder:"yes",
+					addMouseWheelSupport:"yes", 
+					startAtRandomVideo:"no",
+					stopAfterLastVideoHasPlayed:"no",
+					addScrollOnMouseMove:"no",
+					randomizePlaylist:'no',
+					folderVideoLabel:"VIDEO ",
+					playlistRightWidth:310,
+					playlistBottomHeight:380,
+					startAtVideo:0,
+					maxPlaylistItems:50,
+					thumbnailWidth:71,
+					thumbnailHeight:71,
+					spaceBetweenControllerAndPlaylist:1,
+					spaceBetweenThumbnails:1,
+					scrollbarOffestWidth:10,
+					scollbarSpeedSensitivity:.5,
+					playlistBackgroundColor:"#000000",
+					playlistNameColor:"#FFFFFF",
+					thumbnailNormalBackgroundColor:"#1b1b1b",
+					thumbnailHoverBackgroundColor:"#313131",
+					thumbnailDisabledBackgroundColor:"#272727",
+					searchInputBackgroundColor:"#000000",
+					searchInputColor:"#bdbdbd",
+					youtubeAndFolderVideoTitleColor:"#FFFFFF",
+					folderAudioSecondTitleColor:"#999999",
+					youtubeOwnerColor:"#bdbdbd",
+					youtubeDescriptionColor:"#bdbdbd",
+					mainSelectorBackgroundSelectedColor:"#FFFFFF",
+					mainSelectorTextNormalColor:"#FFFFFF",
+					mainSelectorTextSelectedColor:"#000000",
+					mainButtonBackgroundNormalColor:"#212021",
+					mainButtonBackgroundSelectedColor:"#FFFFFF",
+					mainButtonTextNormalColor:"#FFFFFF",
+					mainButtonTextSelectedColor:"#000000",
+					//controller settings
+					showController:"yes",
+					showControllerWhenVideoIsStopped:"yes",
+					showNextAndPrevButtonsInController:"no",
+					showRewindButton:"yes",
+					showPlaybackRateButton:"yes",
+					showVolumeButton:"yes",
+					showTime:"yes",
+					showQualityButton:"yes",
+					showInfoButton:"yes",
+					showDownloadButton:"yes",
+					showShareButton:"yes",
+					showEmbedButton:"yes",
+					showChromecastButton:"no",
+					showFullScreenButton:"yes",
+					disableVideoScrubber:"no",
+					showScrubberWhenControllerIsHidden:"yes",
+					showMainScrubberToolTipLabel:"yes",
+					showDefaultControllerForVimeo:"yes",
+					repeatBackground:"no",
+					controllerHeight:42,
+					controllerHideDelay:3,
+					startSpaceBetweenButtons:10,
+					spaceBetweenButtons:10,
+					scrubbersOffsetWidth:2,
+					mainScrubberOffestTop:16,
+					timeOffsetLeftWidth:2,
+					timeOffsetRightWidth:3,
+					timeOffsetTop:0,
+					volumeScrubberHeight:80,
+					volumeScrubberOfsetHeight:12,
+					timeColor:"#bdbdbd",
+					youtubeQualityButtonNormalColor:"#bdbdbd",
+					youtubeQualityButtonSelectedColor:"#FFFFFF",
+					scrubbersToolTipLabelBackgroundColor:"#FFFFFF",
+					scrubbersToolTipLabelFontColor:"#5a5a5a",
+					//advertisement on pause window
+					aopwTitle:"Advertisement",
+					aopwWidth:400,
+					aopwHeight:240,
+					aopwBorderSize:6,
+					aopwTitleColor:"#FFFFFF",
+					//subtitle
+					subtitlesOffLabel:"Subtitle off",
+					//popup add windows
+					showPopupAdsCloseButton:"yes",
+					//embed window and info window
+					embedAndInfoWindowCloseButtonMargins:15,
+					borderColor:"#333333",
+					mainLabelsColor:"#FFFFFF",
+					secondaryLabelsColor:"#bdbdbd",
+					shareAndEmbedTextColor:"#5a5a5a",
+					inputBackgroundColor:"#000000",
+					inputColor:"#FFFFFF",
+					//login
+		            playIfLoggedIn:"no",
+		            playIfLoggedInMessage:"Please <a href='https://google.com' target='_blank'>login</a> to play this video.",
+					//audio visualizer
+					audioVisualizerLinesColor:"#0099FF",
+					audioVisualizerCircleColor:"#FFFFFF",
+					//lightbox settings
+					closeLightBoxWhenPlayComplete:"no",
+					lightBoxBackgroundOpacity:.6,
+					lightBoxBackgroundColor:"#000000",
+					//sticky on scroll
+					stickyOnScroll:"no",
+					stickyOnScrollShowOpener:"yes",
+					stickyOnScrollWidth:"700",
+					stickyOnScrollHeight:"394",
+					//sticky display settings
+					showOpener:"yes",
+					showOpenerPlayPauseButton:"yes",
+					verticalPosition:"bottom",
+					horizontalPosition:"center",
+					showPlayerByDefault:"yes",
+					animatePlayer:"yes",
+					openerAlignment:"right",
+					mainBackgroundImagePath:"content/minimal_skin_dark/main-background.png",
+					openerEqulizerOffsetTop:-1,
+					openerEqulizerOffsetLeft:3,
+					offsetX:0,
+					offsetY:0,
+					//playback rate / speed
+					defaultPlaybackRate:1, //0.25, 0.5, 1, 1.25, 1.2, 2
+					//cuepoints
+					executeCuepointsOnlyOnce:"no",
+					//annotations
+					showAnnotationsPositionTool:"no",
+					//ads
+					openNewPageAtTheEndOfTheAds:"no",
+					adsButtonsPosition:"left",
+					skipToVideoText:"You can skip to video in: ",
+					skipToVideoButtonText:"Skip Ad",
+					adsTextNormalColor:"#bdbdbd",
+					adsTextSelectedColor:"#FFFFFF",
+					adsBorderNormalColor:"#444444",
+					adsBorderSelectedColor:"#FFFFFF",
+					//a to b loop
+					useAToB:"yes",
+					atbTimeBackgroundColor:"transparent",
+					atbTimeTextColorNormal:"#888888",
+					atbTimeTextColorSelected:"#FFFFFF",
+					atbButtonTextNormalColor:"#888888",
+					atbButtonTextSelectedColor:"#FFFFFF",
+					atbButtonBackgroundNormalColor:"#FFFFFF",
+					atbButtonBackgroundSelectedColor:"#000000",
+					//thumbnails preview
+					thumbnailsPreviewWidth:196,
+					thumbnailsPreviewHeight:110,
+					thumbnailsPreviewBackgroundColor:"#000000",
+					thumbnailsPreviewBorderColor:"#666",
+					thumbnailsPreviewLabelBackgroundColor:"#666",
+					thumbnailsPreviewLabelFontColor:"#FFF",
+					// context menu
+					showContextmenu:'yes',
+					showScriptDeveloper:"no",
+					contextMenuBackgroundColor:"#1f1f1f",
+					contextMenuBorderColor:"#1f1f1f",
+					contextMenuSpacerColor:"#333",
+					contextMenuItemNormalColor:"#666666",
+					contextMenuItemSelectedColor:"#FFFFFF",
+					contextMenuItemDisabledColor:"#333"
+				});
+			});
+			
+		</script>
+		
+	</head>
 
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
-<title>SKR</title>
-</head>
+	<body style="background-color:#999999">	
+	
+		<div id="myDiv" style="position:relative; left:0px; top:0px;"></div>
+		
+		<!--  Playlists -->
+			<ul id="playlists" style="display:none;">
+				<li data-source="playlist1" data-playlist-name="ФИЛЬМЫ" data-thumbnail-path="content/thumbnails/p-html.jpg">
+					<p class="fwduvp-categories-title"><span class="fwduvp-header">Title: </span><span class="fwduvp-title">My HTML playlist 1</span></p>
+					<p class="fwduvp-categories-type"><span class="fwduvp-header">Type: </span>HTML</p>
+					<p class="fwduvp-categories-description"><span class="fwduvp-header">Description: </span>Created using <strong>HTML markup</strong>, all format are supported and it can have mixed video formats.</p>
+				</li>
+				
+				<li data-source="list=PLxKHVMqMZqUQFbRO0VWaHMaWuQagIgpJe"  data-playlist-name="MY YOUTUBE PLAYLIST 1" data-thumbnail-path="content/thumbnails/p-youtube.jpg">
+					<p class="fwduvp-categories-title"><span class="fwduvp-header">Title: </span><span class="fwduvp-title">My Youtube playlist 1</span></p>
+					<p class="fwduvp-categories-type"><span class="fwduvp-header">Type: </span>YOUTUBE</p>
+					<p class="fwduvp-categories-description"><span class="fwduvp-header">Description: </span>Created by loading a Youtube playlist, video are loaded and played from Youtube.</p>
+				</li>
+				
+				<li data-source="mixedPlaylist" data-playlist-name="MY MIXED PLAYLIST 1" data-thumbnail-path="content/thumbnails/p-mixed.jpg">
+					<p class="fwduvp-categories-title"><span class="fwduvp-header">Title: </span><span class="fwduvp-title">My mixed playlist 1</span></p>
+					<p class="fwduvp-categories-type"><span class="fwduvp-header">Type: </span>MIXED</p>
+					<p class="fwduvp-categories-description"><span class="fwduvp-header">Description: </span>Created using <strong>HTML markup</strong>, videos are played self or external hosted. or Youtube.</p>
+				</li>
+				
+				<li data-source="https://www.webdesign-flash.ro/p/uvp/content/playlist.xml" data-playlist-name="MY XML PLAYLIST 1" data-thumbnail-path="content/thumbnails/p-xml.jpg">
+					<p class="fwduvp-categories-title"><span class="fwduvp-header">Title: </span><span class="fwduvp-title">My XML playlist 1</span></p>
+					<p class="fwduvp-categories-type"><span class="fwduvp-header">Type: </span>XML</p>
+					<p class="fwduvp-categories-description"><span class="fwduvp-header">Description: </span>Created using a XML file, videos are played self or external hosted. or Youtube.</p>
+				</li>
+				
+				<li data-source="vimeoPlaylist" data-playlist-name="VIMEO PLAYLIST" data-thumbnail-path="content/thumbnails/p-vimeo.jpg">
+					<p class="fwduvp-categories-title"><span class="fwduvp-header">Title: </span><span class="fwduvp-title">MY VIMEO PLAYLIST 1</span></p>
+					<p class="fwduvp-categories-type"><span class="fwduvp-header">Type: </span>VIMEO</p>
+					<p class="fwduvp-categories-description"><span class="fwduvp-header">Description: </span>Created using <strong>HTML markup</strong>, video are loaded and played from Vimeo.</p>
+				</li>
+				
+				<li data-source="folder=videos" data-playlist-name="MY MP4 FOLDER PLAYLIST 1" data-thumbnail-path="content/thumbnails/p-folder.jpg">
+					<p class="fwduvp-categories-title"><span class="fwduvp-header">Title: </span><span class="fwduvp-title">My mp4 folder playlist 1</span></p>
+					<p class="fwduvp-categories-type"><span class="fwduvp-header">Type: </span>FOLDER</p>
+					<p class="fwduvp-categories-description"><span class="fwduvp-header">Description: </span>Created using a folder with mp4 files, all format are supported and it can have mixed video formats.</p>
+				</li>
+				
+				<li data-source="folder=mp3" data-playlist-name="MY MP3 FOLDER PLAYLIST 1" data-thumbnail-path="content/thumbnails/p-folder.jpg">
+					<p class="fwduvp-categories-title"><span class="fwduvp-header">Title: </span><span class="fwduvp-title">My mp3 folder playlist 1</span></p>
+					<p class="fwduvp-categories-type"><span class="fwduvp-header">Type: </span>FOLDER</p>
+					<p class="fwduvp-categories-description"><span class="fwduvp-header">Description: </span>Created using a folder with mp3 files, mp3 files are loaded and played from the server.</p>
+				</li>
+			</ul>
 
-<body>
-oooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-</body>
+			<!--  HTML playlist -->
+			<ul id="playlist1" style="display:none;">
+				
+				<li data-thumb-source="content/thumbnails/small-fwd.jpg" data-video-source="[{source:'content/videos2/fwd-480p.mp4', label:'small version'}, {source:'content/videos2/fwd-720p.mp4', label:'hd720'},{source:'content/videos2/fwd-1080p.mp4', label:'hd1080'}]" data-start-at-video="2" data-poster-source="content/posters/mp4-poster.jpg" data-subtitle-soruce="[{source:'content/subtitles/english_subtitle.vtt', label:'English'}, {source:'content/subtitles/romanian_subtitle.vtt', label:'Romanian'},{source:'content/subtitles/spanish_subtitle.vtt', label:'Spanish'}]"  data-start-at-subtitle="1" data-downloadable="yes">	
+				<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Multiple Subtitles & Video Quality</p>
+							<p class="fwduvp-thumbnail-description">Each video can have one or more subtitles (txt or srt).</p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/travel-thumbnail.jpg" data-video-source="content/videos/travel.mp4" data-poster-source="content/posters/travel-poster.jpg" data-downloadable="yes">
+					<ul data-ads="">
+						<li data-source="content/videos/ad.mp4" data-time-start="00:00:15" data-time-to-hold-ads=4 data-thumbnail-source="content/images/thumbnail.jpg" data-link="http://www.webdesign-flash.ro" data-target="_blank"></li>
+						<li data-source="https://www.youtube.com/watch?v=8EJ3zbKTWQ8" data-time-start="00:00:32" data-time-to-hold-ads=4 data-thumbnail-source="content/images/thumbnail.jpg" data-link="http://www.webdesign-flash.ro" data-target="_blank"></li>
+						<li data-source="content/images/ad.jpg" data-time-start="00:00:45" data-time-to-hold-ads=4 data-add-duration="00:00:15" data-thumbnail-source="" data-link="http://www.webdesign-flash.ro/p/evp/content/images/ad.jpg" data-target="_blank"></li>
+					</ul>
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Pre, Middle, Post - Roll Advertisement</p>
+							<p class="fwduvp-thumbnail-description">Video (mp4/Youtube) or image advertisement is supported.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Pre, Middle, Post - Roll Advertisement</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/horizontal-gridfolio-pro/" target="_blank">this link</a>.</p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/earth-thumbnail.jpg" data-video-source="content/videos/earth.mp4" data-poster-source="content/posters/earth-poster.jpg" data-downloadable="yes">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Popup Advertisement</p>
+							<p class="fwduvp-thumbnail-description">UVP can handle unlimited popup image advertisement just like Youtube dose.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Popup Advertisement</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/royal-3d-coverflow/" target="_blank">this link</a></p>
+						</div>
+					</div>
+					<div data-add-popup="">
+						<p data-image-path="content/images/img.jpg" data-time-start="00:00:01" data-time-end="00:00:25" data-link="http://www.webdesign-flash.ro" data-target="_blank"></p>
+						<p data-image-path="content/images/img.jpg" data-time-start="00:00:31" data-time-end="00:00:52" data-link="http://www.google.com" data-target="_blank"></p>
+					</div>
+				</li>
+				  
+				<li data-thumb-source="content/thumbnails/party-thumbnail.jpg" data-video-source="[{source:'content/videos/party.mp4', label:'hd1080'}]" data-start-at-video="0" data-poster-source="content/posters/party-poster.jpg" data-downloadable="yes">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Annotations</p>
+							<p class="fwduvp-thumbnail-description">Support for unlimited annotations with utmost controll and settings.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Annotations</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/rap/" target="_blank">this link</a></p>
+						</div>
+					</div>
+					
+					<ul data-annotations="">
+						<li data-start-time="00:00:01" data-end-time="00:00:29" data-left="10" data-top="98" data-show-close-button="yes" data-normal-state-class="fwduvp-annotation-normal">
+							<div> Annotations like this can be added with ease!</div>
+						</li>
+						
+						<li data-start-time="00:00:02" data-end-time="00:00:29" data-left="10" data-top="159" data-show-close-button="yes" data-click-source="http://www.webdesign-flash.ro" data-click-source-target="_blank" data-normal-state-class="fwduvp-annotation-link-normal" data-selected-state-class="fwduvp-annotation-link-selected">
+							<div><span style="font-weight:bold; text-decoration: underline;">LINK</span> support, href and target can be specified, also animation between annotation states is possible as you can see here on hover.</div>
+						</li>
+						
+						<li data-start-time="00:00:03" data-end-time="00:00:29" data-left="10" data-top="387" data-show-close-button="no" data-click-source="alert('This is a javascript function called using the annotations feature of Ultimate Video Player!');" data-click-source-target="_blank" data-normal-state-class="fwduvp-annotation-js-normal" data-selected-state-class="fwduvp-annotation-js-selected">
+							<div><span style="font-weight:bold; text-decoration: underline;">JAVASCRIPT</span> support, a javascript function can be called on click without a close button</div>
+						</li>
 
+						<li data-start-time="00:00:33" data-end-time="00:01:06" data-left="790" data-top="132" data-show-close-button="no" data-click-source="player1.play();" data-normal-state-class="fwduvp-annotation-play-normal" data-selected-state-class="fwduvp-annotation-play-selected">
+							<div>play</div>
+						</li>
+						
+						<li data-start-time="00:00:34" data-end-time="00:01:06" data-left="790" data-top="177" data-show-close-button="no" data-click-source="player1.pause();" data-normal-state-class="fwduvp-annotation-play-normal" data-selected-state-class="fwduvp-annotation-play-selected">
+							<div>pause</div>
+						</li>
+						
+						<li data-start-time="00:00:35" data-end-time="00:01:06" data-left="790" data-top="222" data-show-close-button="no" data-click-source="player1.scrub(0.6);" data-normal-state-class="fwduvp-annotation-play-normal" data-selected-state-class="fwduvp-annotation-play-selected">
+							<div>scrub to 60%</div>
+						</li>
+						
+						<li data-start-time="00:00:36" data-end-time="00:01:06" data-left="790" data-top="266" data-show-close-button="no" data-click-source="player1.setVolume(0.5);" data-normal-state-class="fwduvp-annotation-play-normal" data-selected-state-class="fwduvp-annotation-play-selected">
+							<div>set volume to 50%</div>
+						</li>
+						
+						<li data-start-time="00:00:37" data-end-time="00:01:06" data-left="790" data-top="310" data-show-close-button="no" data-click-source="player1.goFullScreen();" data-normal-state-class="fwduvp-annotation-play-normal" data-selected-state-class="fwduvp-annotation-play-selected">
+							<div>go full screen</div>
+						</li>
+					</ul>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/hls-small.jpg" data-video-source="http://195.64.244.26:8080/share.cgi?ssid=fe8c8b97a74f4484918084b0c8ab52ce&openfolder=forcedownload&ep=&_dc=1722666027482&fid=fe8c8b97a74f4484918084b0c8ab52ce" data-poster-source="content/posters/hls-poster.jpg" data-downloadable="yes">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Плохие парни навсегда (2024)</p>
+							<p class="fwduvp-thumbnail-description">HTTP Live Streaming</span> /<span class="myBold"> HLS</span> / <span class="myBold">m3u8</span> video support on all browsers mobile or desktop.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">HLS Live Streaming & m3u8</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/u3dcar/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+
+				<li data-thumb-source="content/thumbnails/dash-thumbnail.jpg" data-video-source="https://dash.akamaized.net/envivio/EnvivioDash3/manifest.mpd" data-poster-source="content/posters/dash-poster.jpg" data-downloadable="yes">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">MPEG DASH live streaming & mpd</p>
+							<p class="fwduvp-thumbnail-description">MPEG DASH Live Streaming</span> / <span class="myBold">mpd</span> video support.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">MPEG DASH live streaming & mpd</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/u3dcar/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/360-thumbnail.jpg" data-video-source="[{source:'content/videos/360.mp4', label:'', is360:'yes'}]" data-poster-source="content/posters/360-poster.jpg" data-downloadable="yes">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">360 Degree & VR</p>
+							<p class="fwduvp-thumbnail-description">Virtual reality 360 degree / VR support.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">360 Degree & VR</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/360viewer/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/audio-thumbnail.jpg" data-video-source="content/mp3/01.mp3" data-poster-source="content/posters/audio-poster.jpg" data-downloadable="yes">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Mp3 Audio</p>
+							<p class="fwduvp-thumbnail-description">UVP can play mp3 files and visualize it in real time.</p>
+						</div>	
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Mp3 Audio</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/megazoom/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/fwd-thumbnail.jpg" data-video-source="content/videos/fwd.mp4" data-poster-source="content/posters/mp4-poster.jpg" data-downloadable="yes" data-is-private="yes" data-private-video-password="428c841430ea18a70f7b06525d4b748a">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Private & Password Protected</p>
+							<p class="fwduvp-thumbnail-description">Password is required to view this video. The test password is Melinda.</p>
+						</div>	
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Private & Password Protected</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/msp/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+
+				<li data-thumb-source="content/thumbnails/roks.jpg" data-video-source="content/videos/travel.mp4" data-poster-source="content/posters/travel-poster.jpg" data-play-if-logged-in="yes">	
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Play Only If Logged In</p>
+							<p class="fwduvp-thumbnail-description">The user has to be logged in to be view this video.</p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/travel3-thumbnail.jpg" data-video-source="content/videos/travel.mp4" data-poster-source="content/posters/travel-poster.jpg" data-advertisement-on-pause-source="https://www.webdesign-flash.ro/iframe.html">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Advertisement Window On Pause</p>
+							<p class="fwduvp-thumbnail-description">The source can be any webpage.</p>
+						</div>	
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/earth2-thumbnail.jpg" data-video-source="content/videos/earth.mp4" data-poster-source="content/posters/earth-poster.jpg" data-downloadable="no" data-vast-url="content/vast/vast-pod.xml" data-vast-clicktrough-target="_blank" data-vast-linear-astart-at-time="00:00:00">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">VAST & VMAP</p>
+							<p class="fwduvp-thumbnail-description">Support for VAST & VMAP<span style='color:#FFFFFF'> "Video Ad Serving Template"</span> pre-roll, mid-roll, post roll with unique functionality.</p>
+						</div>	
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">VAST & VMAP</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/s3dcov/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/party2-thumbnail.jpg" data-video-source="content/videos/party.mp4" data-poster-source="content/posters/party-poster.jpg" data-downloadable="yes"  data-use-a-to-b="yes">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">A To B Loop</p>
+							<p class="fwduvp-thumbnail-description">Loop the video between two specified time points.</p>
+						</div>	
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">A To B Loop</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/evp/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				<li data-thumb-source="content/thumbnails/travel2-thumbnail.jpg" data-video-source="content/videos/travel.mp4" data-start-at-video="0" data-poster-source="content/posters/travel-poster.jpg" data-downloadable="yes" data-thumbnails-preview="content/thumbnails.vtt">	<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Thumbnails Preview</p>
+							<p class="fwduvp-thumbnail-description">Each video can have one thumbnail preview (.vtt).</p>
+						</div>
+					</div>
+				</li>
+			</ul>
+
+			<!--  HTML mixed playlist -->
+			<ul id="mixedPlaylist" style="display:none;">
+				<li data-thumb-source="content/thumbnails/small-fwd.jpg" data-video-source="[{source:'content/videos2/fwd-480p.mp4', label:'small version'}, {source:'content/videos2/fwd-720p.mp4', label:'hd720'},{source:'content/videos2/fwd-1080p.mp4', label:'hd1080'}]" data-start-at-video="2" data-poster-source="content/posters/mp4-poster.jpg,content/posters/mp4-poster-mobile.jpg" data-subtitle-soruce="[{source:'content/subtitles/english_subtitle.vtt', label:'English'}, {source:'content/subtitles/romanian_subtitle.vtt', label:'Romanian'},{source:'content/subtitles/spanish_subtitle.vtt', label:'Spanish'}]"  data-start-at-subtitle="1" data-downloadable="no">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">MP4 video support</p>
+							<p class="fwduvp-thumbnail-description">Support for self-hosted or external mp4 video files.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">MP4 video support</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/small-lora.jpg" data-video-source="https://www.youtube.com/watch?v=IDZTCLNOfqU" data-poster-source="content/posters/Youtube-poster.jpg,content/posters/Youtube-poster-mobile.jpg" data-downloadable="no">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Youtube video</p>
+							<p class="fwduvp-thumbnail-description">Support for Youtube videos, this video is not part of a Youtube playlist.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Youtube single videos</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v1.jpg" data-video-source="https://vimeo.com/channels/top/62092214" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Vimeo video</p>
+							<p class="fwduvp-thumbnail-description">Support for Vimeo videos, this video is not part of a Vimeo playlist.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Vimeo video</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/audio-thumbnail.jpg" data-video-source="content/mp3/01.mp3" data-poster-source="content/posters/audio-poster.jpg" data-downloadable="no">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Mp3 Audio</p>
+							<p class="fwduvp-thumbnail-description">UVP can play mp3 files and visualize it in real time.</p>
+						</div>	
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Mp3 Audio</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/megazoom/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+
+				<li data-thumb-source="content/thumbnails/hls-small.jpg" data-video-source="http://195.64.244.26:8080/share.cgi?ssid=fe8c8b97a74f4484918084b0c8ab52ce&openfolder=forcedownload&ep=&_dc=1722666027482&fid=fe8c8b97a74f4484918084b0c8ab52ce
+.m3u8" data-poster-source="content/posters/hls-poster.jpg" data-downloadable="yes">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">HLS Live Streaming & m3u8</p>
+							<p class="fwduvp-thumbnail-description">HTTP Live Streaming</span> /<span class="myBold"> HLS</span> / <span class="myBold">m3u8</span> video support on all browsers.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">HLS Live Streaming & m3u8</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/u3dcar/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+
+				<li data-thumb-source="content/thumbnails/360-thumbnail.jpg" data-video-source="[{source:'content/videos/360.mp4', label:'', is360:'yes'}]" data-poster-source="content/posters/360-poster.jpg" data-downloadable="yes">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">360 Degree & VR</p>
+							<p class="fwduvp-thumbnail-description">Virtual reality 360 degree / VR support.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">360 Degree & VR</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/360viewer/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/fwd-thumbnail.jpg" data-video-source="[{source:'content/videos2/fwd-480p.mp4', label:'small version'}, {source:'content/videos2/fwd-720p.mp4', label:'hd720'},{source:'content/videos2/fwd-1080p.mp4', label:'hd1080'}]" data-start-at-video="2" data-poster-source="content/posters/mp4-poster.jpg,content/posters/mp4-poster-mobile.jpg" data-subtitle-soruce="[{source:'content/subtitles/english_subtitle.vtt', label:'English'}, {source:'content/subtitles/romanian_subtitle.vtt', label:'Romanian'},{source:'content/subtitles/spanish_subtitle.vtt', label:'Spanish'}]"  data-start-at-subtitle="1" data-downloadable="no">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">MP4 video support</p>
+							<p class="fwduvp-thumbnail-description">Support for self-hosted or external mp4 video files.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">MP4 video support</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+					
+				<li data-thumb-source="content/thumbnails/small-lora2.jpg" data-video-source="https://www.youtube.com/watch?v=IDZTCLNOfqU" data-poster-source="content/posters/Youtube-poster.jpg,content/posters/Youtube-poster-mobile.jpg" data-downloadable="no">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Youtube video</p>
+							<p class="fwduvp-thumbnail-description">Support for Youtube videos, this video is not part of a Youtube playlist.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Youtube single videos</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+
+				<li data-thumb-source="content/thumbnails/small2-vimeo.jpg" data-video-source="https://vimeo.com/channels/top/62092214" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Vimeo video</p>
+							<p class="fwduvp-thumbnail-description">Support for Vimeo videos, this video is not part of a Vimeo playlist.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Vimeo video</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+
+				<li data-thumb-source="content/thumbnails/audio2-thumbnail.jpg" data-video-source="content/mp3/01.mp3" data-poster-source="content/posters/audio-poster.jpg" data-downloadable="no">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Mp3 Audio</p>
+							<p class="fwduvp-thumbnail-description">UVP can play mp3 files and visualize it in real time.</p>
+						</div>	
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Mp3 Audio</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/megazoom/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+			</ul>
+			
+			<!--  HTML vimeo playlist or album -->
+			<ul id="vimeoPlaylist" style="display:none;">
+				<li data-thumb-source="content/thumbnails/v1.jpg" data-video-source="https://vimeo.com/channels/top/62092214" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Bitting Elbows</p>
+							<p class="fwduvp-thumbnail-description">Support 'Hardcore' - the spiritual sequel to Bad Motherfucker on Indiegogo.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Bitting Elbows</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v3.jpg" data-video-source="https://vimeo.com/channels/top/23237102" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">The City Limits</p>
+							<p class="fwduvp-thumbnail-description">As of today, it is estimated that there are more than 7 billion humans living on Earth.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">The City Limits</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/horizontal-gridfolio-pro/" target="_blank">this link</a>.</p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v4.jpg" data-video-source="https://vimeo.com/channels/top/29950141" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Landscapes Volume Two</p>
+							<p class="fwduvp-thumbnail-description">Each video can have one or more subtitles (txt or srt).</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Landscapes Volume Two</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v6.jpg" data-video-source="https://vimeo.com/channels/top/6428069" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Birds On The Wires</p>
+							<p class="fwduvp-thumbnail-description">Reading a newspaper, I saw a picture of birds on the electric wires.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Birds On The Wires</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v7.jpg" data-video-source="https://vimeo.com/channels/top/4749536" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Almna</p>
+							<p class="fwduvp-thumbnail-description">Each video can have one or more subtitles (txt or srt).</p>
+						</div>
+					</div>
+					<div data-video-long-description="" >
+						<div>
+							<p class="fwduvp-video-title">Alma</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v8.jpg" data-video-source="https://vimeo.com/channels/top/54348266" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Into The Wind</p>
+							<p class="fwduvp-thumbnail-description">Support for unlimited annotations with utmost controll and settings.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Into The Wind</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/rap/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v9.jpg" data-video-source="https://vimeo.com/channels/top/64122803" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Polar Spirits</p>
+							<p class="fwduvp-thumbnail-description">his is my third short-film about the northern lights.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Polar Spirits</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/u3dcar/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v10.jpg" data-video-source="https://vimeo.com/channels/top/11386048" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Amazing Saturn</p>
+							<p class="fwduvp-thumbnail-description">Not-for-profit animated IMAX film in early production by a single filmmaker.</p>
+						</div>
+					</div>
+					<div data-video-long-description="" >
+						<div>
+							<p class="fwduvp-video-title">Amazing Saturn</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v11.jpg" data-video-source="http://195.64.244.26:8080/share.cgi?ssid=fe8c8b97a74f4484918084b0c8ab52ce&openfolder=forcedownload&ep=&_dc=1722666027482&fid=fe8c8b97a74f4484918084b0c8ab52ce
+" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Moonwalk</p>
+							<p class="fwduvp-thumbnail-description">Dean Potter walks a highline at Cathedral Peak as the sun sets and the moon rises.</p>
+						</div>
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Moonwalk</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/360viewer/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v14.jpg" data-video-source="https://vimeo.com/channels/top/29568236" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Aurora Borelias</p>
+							<p class="fwduvp-thumbnail-description">This is selection of northern lights we filmed during the winter 2011 in several locations in the Finnish Lapland.</p>
+						</div>
+					</div>
+					<div data-video-long-description="" >
+						<div>
+							<p class="fwduvp-video-title">Aurora Borelias</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v15.jpg" data-video-source="https://vimeo.com/channels/top/6132324" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Artificial Paradise</p>
+							<p class="fwduvp-thumbnail-description">An experimental film anticipating a future where a major corporation has developed an unique software.</p>
+						</div>
+					</div>
+					<div data-video-long-description="" >
+						<div>
+							<p class="fwduvp-video-title">Artificial Paradise</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+				
+				<li data-thumb-source="content/thumbnails/v16.jpg" data-video-source="https://vimeo.com/channels/top/6736261" data-poster-source="content/posters/vimeo-poster.jpg">
+					<div data-video-short-description="">
+						<div>
+							<p class="fwduvp-thumbnail-title">Berlin Block Tetris</p>
+							<p class="fwduvp-thumbnail-description">An animation I made for Uni. Everything is made in After Effects without Plugins.</p>
+						</div>	
+					</div>
+					<div data-video-long-description="">
+						<div>
+							<p class="fwduvp-video-title">Berlin Block Tetris</p>
+							<p class="fwduvp-video-main-description">Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all video.</p>
+							<p class="fwduvp-link">For more information about this please follow <a href="http://www.webdesign-flash.ro/p/royal-3d-carousel/" target="_blank">this link</a></p>
+						</div>
+					</div>
+				</li>
+			</ul>
+			
+			
+	</body>
 </html>
+
+
+
 
