@@ -1,0 +1,67 @@
+<VAST version="4.0" xmlns:xs="https://www.w3.org/2001/XMLSchema" xmlns="https://www.iab.com/VAST">
+  <Ad id="preroll-1" sequence="1" startTime="00:00:05" conditionalAd="false">
+    <InLine>
+      <AdSystem version="4.0">iabtechlab</AdSystem>
+      <Error>https://example.com/error</Error>
+      <Impression id="Impression-ID">https://example.com/track/impression</Impression>
+      <Pricing model="cpm" currency="USD">
+        <![CDATA[ 25.00 ]]>
+      </Pricing>
+      <AdTitle>vacation video ad</AdTitle>
+      <Creatives>
+        <Creative id="5480" sequence="1" adId="2447226" apiFramework="VPAID">
+          <UniversalAdId idRegistry="Ad-ID" idValue="8465">1234</UniversalAdId>
+          <Linear skipoffset="00:00:05">
+            <TrackingEvents>
+              <Tracking event="start" offset="01:34:00">https://example.com/tracking/start</Tracking>
+              <Tracking event="firstQuartile">https://example.com/tracking/firstQuartile</Tracking>
+              <Tracking event="midpoint">https://example.com/tracking/midpoint</Tracking>
+              <Tracking event="thirdQuartile">https://example.com/tracking/thirdQuartile</Tracking>
+              <Tracking event="complete">https://example.com/tracking/complete</Tracking>
+            </TrackingEvents>
+            <Duration>00:00:52</Duration>
+            <MediaFiles>
+			  <MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="1500" width="720" height="480">
+                <![CDATA[https://www.webdesign-flash.ro/p/evp/content/videos/a720.mp4]]>
+              </MediaFile>
+              <MediaFile id="2" delivery="progressive" type="video/mp4" bitrate="356" width="480" height="260">
+                <![CDATA[https://www.webdesign-flash.ro/p/evp/content/videos/a480.mp4]]>
+              </MediaFile>
+              <Mezzanine>
+                <![CDATA[https://example.com/beacon?type=complete&imprid=s5-ea2f7f298e28c0c98374491aec3dfeb1&ts=4235]]>
+              </Mezzanine>
+            </MediaFiles>
+            <VideoClicks>
+              <ClickThrough id="blog">
+                <![CDATA[https://www.webdesign-flash.ro]]>
+              </ClickThrough>
+            </VideoClicks>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id="preroll-2" sequence="2" startTime="00:00:10">
+		<InLine>
+		  <AdSystem>Test</AdSystem>
+		  <AdTitle>IPhone ad</AdTitle>
+		  <Creatives>
+			<Creative>
+			  <Linear skipoffset="00:00:05">
+				<Duration>00:02:15</Duration>
+				<TrackingEvents>
+				</TrackingEvents>
+				<VideoClicks>
+				  <ClickThrough id="scanscout"><![CDATA[https://www.target.com]]></ClickThrough>
+				</VideoClicks>
+				<MediaFiles>
+				 <MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="356" width="480" height="260">
+					<![CDATA[https://www.webdesign-flash.ro/p/evp/content/videos/b480.mp4]]>
+				</MediaFile>
+				</MediaFiles>
+			  </Linear>
+			</Creative>
+		</Creatives>
+		</InLine>
+	 </Ad>
+</VAST>
